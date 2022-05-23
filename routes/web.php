@@ -19,6 +19,7 @@ use Illuminate\Support\Facades\Route;
 });*/
 
 Route::get('/', [PagesController::class, 'index']);
+Route::inertia('/about', 'AboutPage');
 
 Auth::routes();
 

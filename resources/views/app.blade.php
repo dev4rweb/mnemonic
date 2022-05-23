@@ -19,6 +19,9 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     @inertiaHead
+    @if(isset($meta))
+        <meta name="description" content="{{ $meta }}">
+    @endif
 </head>
 <body>
 @inertia

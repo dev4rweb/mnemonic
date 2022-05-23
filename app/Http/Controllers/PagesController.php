@@ -9,6 +9,6 @@ class PagesController extends Controller
 {
     public function index()
     {
-        return Inertia::render('HomePage');
+        return Inertia::render('HomePage')->withViewData(['meta' => 'Some meta']);
     }
 }
