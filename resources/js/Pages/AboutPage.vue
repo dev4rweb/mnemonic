@@ -1,6 +1,10 @@
 <template>
     <Layout>
-        <Head title="Welcome"/>
+        <Head>
+            <title>Your page title</title>
+            <meta name="description" content="Your page description">
+            <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        </Head>
         <h1>About</h1>
     </Layout>
 </template>
