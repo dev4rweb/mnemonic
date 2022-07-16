@@ -1,8 +1,15 @@
 // Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
-
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+//@import url('https://fonts.googleapis.com/css2?family=K2D:wght@500&family=Underdog&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 // Variables
 @import 'variables';
 
 // Bootstrap
-@import '~bootstrap/scss/bootstrap';
+//@import '~bootstrap/scss/bootstrap';
+@import '../../node_modules/bootstrap/scss/bootstrap';
+@import '../../node_modules/bootstrap-icons/font/bootstrap-icons';
+
+body{
+    font-family: 'Roboto', sans-serif;
+}

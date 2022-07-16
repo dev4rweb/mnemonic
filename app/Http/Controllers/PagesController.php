@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Card;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
 
@@ -9,6 +10,9 @@ class PagesController extends Controller
 {
     public function index()
     {
-        return Inertia::render('HomePage')->withViewData(['meta' => 'Some meta']);
+        $cards = Card::orderBy('id', 'desc')->get();
+        return Inertia::render('HomePage', [
+            'cards' => $cards
+        ])->withViewData(['meta' => 'Some meta']);
     }
 }

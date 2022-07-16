@@ -1,0 +1,3212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="days">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </array>
+    <array name="days_trans">
+        <item>ПоНи</item>
+        <item>ВыТяжка</item>
+        <item>СуРгуч</item>
+        <item>ЧеТки</item>
+        <item>аПТека</item>
+        <item>СоБоль</item>
+        <item>ВеСы</item>
+    </array>
+    <array name="month">
+        <item>январь</item>
+        <item>февраль</item>
+        <item>март</item>
+        <item>апрель</item>
+        <item>май</item>
+        <item>июнь</item>
+        <item>июль</item>
+        <item>август</item>
+        <item>сентябрь</item>
+        <item>октябрь</item>
+        <item>ноябрь</item>
+        <item>декабрь</item>
+    </array>
+    <array name="month_trans">
+        <item>елка</item>
+        <item>медаль</item>
+        <item>мимоза</item>
+        <item>капля</item>
+        <item>голубь</item>
+        <item>лист</item>
+        <item>клубника</item>
+        <item>яблоко</item>
+        <item>транспортир</item>
+        <item>лед</item>
+        <item>снег</item>
+        <item>шампанское</item>
+    </array>
+    <array name="num_hundred">
+        <item>номерок</item>
+        <item>бочки</item>
+        <item>еЖ</item>
+        <item>яД</item>
+        <item>уХо</item>
+        <item>Чай</item>
+        <item>оБои</item>
+        <item>юЛа</item>
+        <item>оСа</item>
+        <item>иВа</item>
+        <item>яйЦо</item>
+        <item>оГоНь</item>
+        <item>ГаГарин</item>
+        <item>ГиТара</item>
+        <item>ГайКа</item>
+        <item>ЖуЧок</item>
+        <item>ГуБы</item>
+        <item>ГуаШь</item>
+        <item>ГуСь</item>
+        <item>ГВоздь</item>
+        <item>ГиРя</item>
+        <item>ДоМ</item>
+        <item>уТюГ</item>
+        <item>ДиоД</item>
+        <item>ДуХи</item>
+        <item>ДиЧь</item>
+        <item>ТоПор</item>
+        <item>ДуШ</item>
+        <item>ТуЗ</item>
+        <item>уДаВ</item>
+        <item>ТеРка</item>
+        <item>иКоНа</item>
+        <item>КоЖа</item>
+        <item>КиТ</item>
+        <item>КеКс</item>
+        <item>КоЧан</item>
+        <item>КуБик</item>
+        <item>КЛей</item>
+        <item>КоСа</item>
+        <item>ХВоя</item>
+        <item>яКоРь</item>
+        <item>ЧайНик</item>
+        <item>ЧуГунок</item>
+        <item>ЩиТ</item>
+        <item>оЧКи</item>
+        <item>ЧуЧело</item>
+        <item>ЧиП</item>
+        <item>ЧаШка</item>
+        <item>ЧаСы</item>
+        <item>ЩаВель</item>
+        <item>ЧеРеп</item>
+        <item>БаяН</item>
+        <item>ПоГоны</item>
+        <item>БиТа</item>
+        <item>ПауК</item>
+        <item>ПеЧь</item>
+        <item>ПюПитр</item>
+        <item>ПиаЛа</item>
+        <item>БуСы</item>
+        <item>ПиВо</item>
+        <item>ПеРо</item>
+        <item>ШиНа</item>
+        <item>ЛыЖи</item>
+        <item>ЛаДья</item>
+        <item>ЛейКа</item>
+        <item>ЛуЧ</item>
+        <item>ЛуПа</item>
+        <item>ШиЛо</item>
+        <item>ЛиСа</item>
+        <item>оЛоВо</item>
+        <item>ШаР</item>
+        <item>СаНи</item>
+        <item>СиГара</item>
+        <item>СиТо</item>
+        <item>яЗыК</item>
+        <item>СаЧок</item>
+        <item>ЗуБ</item>
+        <item>СоЛь</item>
+        <item>СоуС</item>
+        <item>СейФ</item>
+        <item>СыР</item>
+        <item>ФеН</item>
+        <item>ВаГон</item>
+        <item>ВаТа</item>
+        <item>ВаКса</item>
+        <item>оВоЩ</item>
+        <item>ВоБла</item>
+        <item>ВиЛы</item>
+        <item>ВеСы</item>
+        <item>ВаФли</item>
+        <item>ФаРа</item>
+        <item>РюМка</item>
+        <item>РоГа</item>
+        <item>РаДио</item>
+        <item>РаК</item>
+        <item>РуЧка</item>
+        <item>РаПан</item>
+        <item>РуЛь</item>
+        <item>РоЗа</item>
+        <item>аРФа</item>
+        <item>РаЦия</item>
+    </array>
+    <array name="num_hundred_name">
+        <item>@null</item>
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+    </array>
+    <array name="trans_en_ru">
+        <item>Apple - яблоко</item>
+        <item>Ball - мяч</item>
+        <item>Cake - торт</item>
+        <item>Diamond - алмаз</item>
+        <item>Eagle - орёл</item>
+        <item>Fern - папоротник</item>
+        <item>Glove - перчатка</item>
+        <item>Hand - рука</item>
+        <item>Iceberg - айсберг</item>
+        <item>Jam - варенье</item>
+        <item>Kitten - котёнок</item>
+        <item>Lamp - лампа</item>
+        <item>Money - деньги</item>
+        <item>Newspaper - газета</item>
+        <item>Orange - апельсин</item>
+        <item>Pen - ручка</item>
+        <item>Quilt - одеяло</item>
+        <item>Rocket - ракета</item>
+        <item>Soup - мыло</item>
+        <item>Table - стол</item>
+        <item>Umbrella - зонт</item>
+        <item>Vase - Ваза</item>
+        <item>Wheel - колесо</item>
+        <item>Xylophone - ксилофон</item>
+        <item>Yacht - яхта</item>
+        <item>Zebra - зебра</item>
+    </array>
+    <array name="trans_ru">
+        <item>Арка</item>
+        <item>Бур</item>
+        <item>Винтовка</item>
+        <item>Грабли</item>
+        <item>Доска</item>
+        <item>Еденица</item>
+        <item>Ёршик</item>
+        <item>Жаровня</item>
+        <item>Земляника</item>
+        <item>Иллюминатор</item>
+        <item>Йогурт</item>
+        <item>Кофе</item>
+        <item>Лапти</item>
+        <item>Марка</item>
+        <item>Нитки</item>
+        <item>Обруч</item>
+        <item>Пакет</item>
+        <item>Рапира</item>
+        <item>Сундук</item>
+        <item>Таблетка</item>
+        <item>Укроп</item>
+        <item>Фишка</item>
+        <item>Халат</item>
+        <item>Цепь</item>
+        <item>Черника</item>
+        <item>Шайба</item>
+        <item>Щеколда</item>
+        <item>твердый знак</item>
+        <item>клавиша Ы</item>
+        <item>мягкий знак</item>
+        <item>Экран</item>
+        <item>Юбка</item>
+        <item>Янтарь</item>
+    </array>
+    <array name="transcription_names">
+        <item>[ i: ]</item>
+        <item>[ i ]</item>
+        <item>[ e ]</item>
+        <item>[ æ ]</item>
+        <item>[ ɑ: ]</item>
+        <item>[ ɔ ]</item>
+        <item>[ ɔ: ]</item>
+        <item>[ ə: ]</item>
+        <item>[ ə ]</item>
+        <item>[ ʌ ]</item>
+        <item>[ u ]</item>
+        <item>[ u: ]</item>
+        <item>[ ai ]</item>
+        <item>[ ei ]</item>
+        <item>[ ɔi ]</item>
+        <item>[ au ]</item>
+        <item>[ ou ]</item>
+        <item>[ iə ]</item>
+        <item>[ uə ]</item>
+        <item>[ ɛə ]</item>
+        <item>[ p ]</item>
+        <item>[ b ]</item>
+        <item>[ m ]</item>
+        <item>[ t ]</item>
+        <item>[ d ]</item>
+        <item>[ n ]</item>
+        <item>[ k ]</item>
+        <item>[ g ]</item>
+        <item>[ f ]</item>
+        <item>[ v ]</item>
+        <item>[ s ]</item>
+        <item>[ z ]</item>
+        <item>[ l ]</item>
+        <item>[ ʃ ]</item>
+        <item>[ ʒ ]</item>
+        <item>[ tʃ ]</item>
+        <item>[ dʒ ]</item>
+        <item>[ r ]</item>
+        <item>[ h ]</item>
+        <item>[ j ]</item>
+        <item>[ ju ]</item>
+        <item>[ je ]</item>
+        <item>[ jɔ ]</item>
+        <item>[ jʌ ]</item>
+        <item>[ w ]</item>
+        <item>[ ŋ ]</item>
+        <item>[ θ ]</item>
+        <item>[ ð ]</item>
+    </array>
+    <array name="transcription_trans">
+        <item>вИлы (и-и)</item>
+        <item>Игла (и)</item>
+        <item>сЭндвич (э)</item>
+        <item>Эскимо (а-э)</item>
+        <item>зАпонка (а-а)</item>
+        <item>стОп (о)</item>
+        <item>кОфе (о-о)</item>
+        <item>мЁд (ё)</item>
+        <item>компАс (невнятный, безударный а)</item>
+        <item>Арбуз (безударный звук а)</item>
+        <item>фУражка (у)</item>
+        <item>Угорь (у-у)</item>
+        <item>мАЙка (ай)</item>
+        <item>лЕЙка (эй)</item>
+        <item>кОЙка (ой)</item>
+        <item>пАУк (ау)</item>
+        <item>клОУн (оу)</item>
+        <item>ИзбА (иа)</item>
+        <item>УткА (уа)</item>
+        <item>ЭтикеткА (эа)</item>
+        <item>Перо (п)</item>
+        <item>Булавка (б)</item>
+        <item>Магнит (м)</item>
+        <item>Топор (т)</item>
+        <item>Дрель (д)</item>
+        <item>Нож (н)</item>
+        <item>Кольцо (к)</item>
+        <item>Грелка (г)</item>
+        <item>Фонарь (ф)</item>
+        <item>Веер (в)</item>
+        <item>Спичка (с)</item>
+        <item>Зажигалка (з)</item>
+        <item>Лупа (л)</item>
+        <item>Шарики (ш)</item>
+        <item>Жук (ж)</item>
+        <item>Черешня (ч)</item>
+        <item>ДЖем (дж)</item>
+        <item>Рюкзак (р)</item>
+        <item>Холодильник (х)</item>
+        <item>Йод (й)</item>
+        <item>Юла (йу)</item>
+        <item>Ель (йэ)</item>
+        <item>ЙОгурт (йо)</item>
+        <item>Якорь (йа)</item>
+        <item>one</item>
+        <item>Наперсток (н), язык у нёба</item>
+        <item>Свеча (с), язык между зубами</item>
+        <item>Звезда (з), язык между зубами</item>
+    </array>
+    <array name="additionally">
+    </array>
+    <array name="alphabet">
+        <item>Английский</item>
+        <item>Русский</item>
+        <item>Транскрипция</item>
+    </array>
+    <array name="calendar">
+        <item>Дни недели</item>
+        <item>Названия месяцев</item>
+    </array>
+    <array name="english">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </array>
+    <array name="english_files">
+        <item>en_apple</item>
+        <item>en_ball</item>
+        <item>en_cake</item>
+        <item>en_diamond</item>
+        <item>en_eagle</item>
+        <item>en_fern</item>
+        <item>en_glove</item>
+        <item>en_hand</item>
+        <item>en_iceberg</item>
+        <item>en_jam</item>
+        <item>en_kitten</item>
+        <item>en_lamp</item>
+        <item>en_money</item>
+        <item>en_newspaper</item>
+        <item>en_orange</item>
+        <item>en_pen</item>
+        <item>en_quilt</item>
+        <item>en_rocket</item>
+        <item>en_soup</item>
+        <item>en_table</item>
+        <item>en_umbrella</item>
+        <item>en_vase</item>
+        <item>en_wheel</item>
+        <item>en_xylophone</item>
+        <item>en_yacht</item>
+        <item>en_zebra</item>
+    </array>
+    <array name="english_transcription">
+        <item>Apple - яблоко</item>
+        <item>Ball - мяч</item>
+        <item>Cake - торт</item>
+        <item>Diamond - алмаз</item>
+        <item>Eagle - орёл</item>
+        <item>Fern - папоротник</item>
+        <item>Glove - перчатка</item>
+        <item>Hand - рука</item>
+        <item>Iceberg - айсберг</item>
+        <item>Jam - варенье</item>
+        <item>Kitten - котёнок</item>
+        <item>Lamp - лампа</item>
+        <item>Money - деньги</item>
+        <item>Newspaper - газета</item>
+        <item>Orange - апельсин</item>
+        <item>Pen - ручка</item>
+        <item>Quilt - одеяло</item>
+        <item>Rocket - ракета</item>
+        <item>Soup - мыло</item>
+        <item>Table - стол</item>
+        <item>Umbrella - зонт</item>
+        <item>Vase - Ваза</item>
+        <item>Wheel - колесо</item>
+        <item>Xylophone - ксилофон</item>
+        <item>Yacht - яхта</item>
+        <item>Zebra - зебра</item>
+    </array>
+    <array name="group">
+        <item>Числа</item>
+        <item>Календарь</item>
+        <item>Алфавит</item>
+        <item>Карты</item>
+    </array>
+    <array name="hundred">
+        <item>бочки</item>
+        <item>еЖ</item>
+        <item>яД</item>
+        <item>уХо</item>
+        <item>Чай</item>
+        <item>оБои</item>
+        <item>юЛа</item>
+        <item>оСа</item>
+        <item>иВа</item>
+        <item>яйЦо</item>
+        <item>оГоНь</item>
+        <item>ГаГарин</item>
+        <item>ГиТара</item>
+        <item>ГайКа</item>
+        <item>ЖуЧок</item>
+        <item>ГуБы</item>
+        <item>ГуаШь</item>
+        <item>ГуСь</item>
+        <item>ГВоздь</item>
+        <item>ГиРя</item>
+        <item>ДоМ</item>
+        <item>уТюГ</item>
+        <item>ДиоД</item>
+        <item>ДуХи</item>
+        <item>ДиЧь</item>
+        <item>ТоПор</item>
+        <item>ДуШ</item>
+        <item>ТуЗ</item>
+        <item>уДаВ</item>
+        <item>ТеРка</item>
+        <item>иКоНа</item>
+        <item>КоЖа</item>
+        <item>КиТ</item>
+        <item>КеКс</item>
+        <item>КоЧан</item>
+        <item>КуБик</item>
+        <item>КЛей</item>
+        <item>КоСа</item>
+        <item>ХВоя</item>
+        <item>яКоРь</item>
+        <item>ЧайНик</item>
+        <item>ЧуГунок</item>
+        <item>ЩиТ</item>
+        <item>оЧКи</item>
+        <item>ЧуЧело</item>
+        <item>ЧиП</item>
+        <item>ЧаШка</item>
+        <item>ЧаСы</item>
+        <item>ЩаВель</item>
+        <item>ЧеРеп</item>
+        <item>БаяН</item>
+        <item>ПоГоны</item>
+        <item>БиТа</item>
+        <item>ПауК</item>
+        <item>ПеЧь</item>
+        <item>ПюПитр</item>
+        <item>ПиаЛа</item>
+        <item>БуСы</item>
+        <item>ПиВо</item>
+        <item>ПеРо</item>
+        <item>ШиНа</item>
+        <item>ЛыЖи</item>
+        <item>ЛаДья</item>
+        <item>ЛейКа</item>
+        <item>ЛуЧ</item>
+        <item>ЛуПа</item>
+        <item>ШиЛо</item>
+        <item>ЛиСа</item>
+        <item>оЛоВо</item>
+        <item>ШаР</item>
+        <item>СаНи</item>
+        <item>СиГара</item>
+        <item>СиТо</item>
+        <item>яЗыК</item>
+        <item>СаЧок</item>
+        <item>ЗуБ</item>
+        <item>СоЛь</item>
+        <item>СоуС</item>
+        <item>СейФ</item>
+        <item>СыР</item>
+        <item>ФеН</item>
+        <item>ВаГон</item>
+        <item>ВаТа</item>
+        <item>ВаКса</item>
+        <item>оВоЩ</item>
+        <item>ВоБла</item>
+        <item>ВиЛы</item>
+        <item>ВеСы</item>
+        <item>ВаФли</item>
+        <item>ФаРа</item>
+        <item>РюМка</item>
+        <item>РоГа</item>
+        <item>РаДио</item>
+        <item>РаК</item>
+        <item>РуЧка</item>
+        <item>РаПан</item>
+        <item>РуЛь</item>
+        <item>РоЗа</item>
+        <item>аРФа</item>
+        <item>РаЦия</item>
+    </array>
+    <array name="hundred_files">
+        <item>num_one</item>
+        <item>num_two</item>
+        <item>num_three</item>
+        <item>num_four</item>
+        <item>num_five</item>
+        <item>num_six</item>
+        <item>num_seven</item>
+        <item>num_eight</item>
+        <item>num_nine</item>
+        <item>num_ten</item>
+        <item>num_eleven</item>
+        <item>num_twelve</item>
+        <item>num_thirteen</item>
+        <item>num_fourteen</item>
+        <item>num_fifteen</item>
+        <item>num_sixteen</item>
+        <item>num_seventeen</item>
+        <item>num_eighteen</item>
+        <item>num_nineteen</item>
+        <item>num_twenty</item>
+        <item>num_twenty_one</item>
+        <item>num_twenty_two</item>
+        <item>num_twenty_three</item>
+        <item>num_twenty_four</item>
+        <item>num_twenty_five</item>
+        <item>num_twenty_six</item>
+        <item>num_twenty_seven</item>
+        <item>num_twenty_eight</item>
+        <item>num_twenty_nine</item>
+        <item>num_thirty</item>
+        <item>num_thirty_one</item>
+        <item>num_thirty_two</item>
+        <item>num_thirty_three</item>
+        <item>num_thirty_four</item>
+        <item>num_thirty_five</item>
+        <item>num_thirty_six</item>
+        <item>num_thirty_seven</item>
+        <item>num_thirty_eight</item>
+        <item>num_thirty_nine</item>
+        <item>num_fourty</item>
+        <item>num_fourty_one</item>
+        <item>num_fourty_two</item>
+        <item>num_fourty_three</item>
+        <item>num_fourty_four</item>
+        <item>num_fourty_five</item>
+        <item>num_fourty_six</item>
+        <item>num_fourty_seven</item>
+        <item>num_fourty_eight</item>
+        <item>num_fourty_nine</item>
+        <item>num_fifty</item>
+        <item>num_fifty_one</item>
+        <item>num_fifty_two</item>
+        <item>num_fifty_three</item>
+        <item>num_fifty_four</item>
+        <item>num_fifty_five</item>
+        <item>num_fifty_six</item>
+        <item>num_fifty_seven</item>
+        <item>num_fifty_eight</item>
+        <item>num_fifty_nine</item>
+        <item>num_sixty</item>
+        <item>num_sixty_one</item>
+        <item>num_sixty_two</item>
+        <item>num_sixty_three</item>
+        <item>num_sixty_four</item>
+        <item>num_sixty_five</item>
+        <item>num_sixty_six</item>
+        <item>num_sixty_seven</item>
+        <item>num_sixty_eight</item>
+        <item>num_sixty_nine</item>
+        <item>num_seventy</item>
+        <item>num_seventy_one</item>
+        <item>num_seventy_two</item>
+        <item>num_seventy_three</item>
+        <item>num_seventy_four</item>
+        <item>num_seventy_five</item>
+        <item>num_seventy_six</item>
+        <item>num_seventy_seven</item>
+        <item>num_seventy_eight</item>
+        <item>num_seventy_nine</item>
+        <item>num_eighty</item>
+        <item>num_eighty_one</item>
+        <item>num_eighty_two</item>
+        <item>num_eighty_three</item>
+        <item>num_eighty_four</item>
+        <item>num_eighty_five</item>
+        <item>num_eighty_six</item>
+        <item>num_eighty_seven</item>
+        <item>num_eighty_eight</item>
+        <item>num_eighty_nine</item>
+        <item>num_ninety</item>
+        <item>num_ninety_one</item>
+        <item>num_ninety_two</item>
+        <item>num_ninety_three</item>
+        <item>num_ninety_four</item>
+        <item>num_ninety_five</item>
+        <item>num_ninety_six</item>
+        <item>num_ninety_seven</item>
+        <item>num_ninety_eight</item>
+        <item>num_ninety_nine</item>
+        <item>num_hundred</item>
+    </array>
+    <array name="month_files">
+        <item>month_one</item>
+        <item>month_two</item>
+        <item>month_three</item>
+        <item>month_four</item>
+        <item>month_five</item>
+        <item>month_six</item>
+        <item>month_seven</item>
+        <item>month_eight</item>
+        <item>month_nine</item>
+        <item>month_ten</item>
+        <item>month_eleven</item>
+        <item>month_twelve</item>
+    </array>
+    <array name="month_transcription">
+        <item>елка</item>
+        <item>медаль</item>
+        <item>мимоза</item>
+        <item>капля</item>
+        <item>голубь</item>
+        <item>лист</item>
+        <item>клубника</item>
+        <item>яблоко</item>
+        <item>транспортир</item>
+        <item>лед</item>
+        <item>снег</item>
+        <item>шампанское</item>
+    </array>
+    <array name="numbers">
+        <item>00 - 99</item>
+        <item>000 - 099</item>
+        <item>100 - 199</item>
+        <item>200 - 299</item>
+        <item>300 - 399</item>
+        <item>400 - 499</item>
+        <item>500 - 599</item>
+        <item>600 - 699</item>
+        <item>700 - 799</item>
+        <item>800 - 899</item>
+        <item>900 - 999</item>
+    </array>
+    <array name="play_cards">
+        <item>card_two_bubi</item>
+        <item>card_three_bubi</item>
+        <item>card_four_bubi</item>
+        <item>card_five_bubi</item>
+        <item>card_six_bubi</item>
+        <item>card_seven_bubi</item>
+        <item>card_eight_bubi</item>
+        <item>card_nine_bubi</item>
+        <item>card_ten_bubi</item>
+        <item>card_valet_bubi</item>
+        <item>card_dama_bubi</item>
+        <item>card_korol_bubi</item>
+        <item>card_tuz_bubi</item>
+        <item>card_two_chervi</item>
+        <item>card_three_chervi</item>
+        <item>card_four_chervi</item>
+        <item>card_five_chervi</item>
+        <item>card_six_chervi</item>
+        <item>card_seven_chervi</item>
+        <item>card_eight_chervi</item>
+        <item>card_nine_chervi</item>
+        <item>card_ten_chervi</item>
+        <item>card_valet_chervi</item>
+        <item>card_dama_chervi</item>
+        <item>card_korol_chervi</item>
+        <item>card_tuz_chervi</item>
+        <item>card_two_krest</item>
+        <item>card_three_krest</item>
+        <item>card_four_krest</item>
+        <item>card_five_krest</item>
+        <item>card_six_krest</item>
+        <item>card_seven_krest</item>
+        <item>card_eight_krest</item>
+        <item>card_nine_krest</item>
+        <item>card_ten_krest</item>
+        <item>card_valet_krest</item>
+        <item>card_dama_krest</item>
+        <item>card_korol_krest</item>
+        <item>card_tuz_krest</item>
+        <item>card_two_piki</item>
+        <item>card_three_piki</item>
+        <item>card_four_piki</item>
+        <item>card_five_piki</item>
+        <item>card_six_piki</item>
+        <item>card_seven_piki</item>
+        <item>card_eight_piki</item>
+        <item>card_nine_piki</item>
+        <item>card_ten_piki</item>
+        <item>card_valet_piki</item>
+        <item>card_dama_piki</item>
+        <item>card_korol_piki</item>
+        <item>card_tuz_piki</item>
+    </array>
+    <array name="play_files">
+        <item>ad_botinok</item>
+        <item>ad_bokal</item>
+        <item>ad_bochka</item>
+        <item>ad_buben</item>
+        <item>ad_bolt</item>
+        <item>ad_bysi</item>
+        <item>ad_bifshtex</item>
+        <item>ad_buratino</item>
+        <item>ad_bigmac</item>
+        <item>ad_biven</item>
+        <item>ad_bidon</item>
+        <item>ad_bak</item>
+        <item>ad_baton</item>
+        <item>ad_chudo</item>
+        <item>ad_chehol</item>
+        <item>ad_chacha</item>
+        <item>ad_chebyrashka</item>
+        <item>ad_chashka</item>
+        <item>ad_chasi</item>
+        <item>ad_fen</item>
+        <item>ad_chereshny</item>
+        <item>ad_chugunok</item>
+        <item>ad_voda</item>
+        <item>ad_chudische</item>
+        <item>ad_chek</item>
+        <item>ad_chetvertak</item>
+        <item>ad_tattoo</item>
+        <item>ad_tkan</item>
+        <item>ad_tachka</item>
+        <item>ad_tubik</item>
+        <item>ad_telephone</item>
+        <item>ad_tiski</item>
+        <item>ad_twix</item>
+        <item>ad_tarakan</item>
+        <item>ad_tyagach</item>
+        <item>ad_tv</item>
+        <item>ad_etydnik</item>
+        <item>ad_ytka</item>
+        <item>ad_atestat</item>
+        <item>ad_ptiza</item>
+        <item>ad_pika</item>
+        <item>ad_pech</item>
+        <item>ad_pipetka</item>
+        <item>ad_pushka</item>
+        <item>ad_pismo</item>
+        <item>ad_pivo</item>
+        <item>ad_perez</item>
+        <item>ad_pugoviza</item>
+        <item>ad_pavlin</item>
+        <item>ad_pudra</item>
+        <item>ad_packet</item>
+        <item>ad_patefon</item>
+    </array>
+    <array name="play_transcription">
+        <item>БоТинки</item>
+        <item>БоКал</item>
+        <item>БоЧка</item>
+        <item>БуБен</item>
+        <item>БоЛт</item>
+        <item>БуСы</item>
+        <item>БиФштекс</item>
+        <item>БуРатино</item>
+        <item>БиГ-мак</item>
+        <item>БиВень</item>
+        <item>БиДон</item>
+        <item>БаК</item>
+        <item>БаТон</item>
+        <item>ЧуДо-йогурт</item>
+        <item>ЧеХол</item>
+        <item>ЧаЧа</item>
+        <item>ЧеБурашка</item>
+        <item>ЧаШка</item>
+        <item>ЧаСы</item>
+        <item>Черный Фен</item>
+        <item>ЧеРешня</item>
+        <item>ЧуГунок</item>
+        <item>Чистая Вода</item>
+        <item>ЧуДовище</item>
+        <item>ЧеК</item>
+        <item>ЧеТвертак</item>
+        <item>ТаТу</item>
+        <item>ТКань</item>
+        <item>ТаЧка</item>
+        <item>ТюБик</item>
+        <item>ТеЛефон</item>
+        <item>ТиСки</item>
+        <item>ТВикс</item>
+        <item>ТаРакан</item>
+        <item>ТяГач</item>
+        <item>ТВ</item>
+        <item>эТюДник</item>
+        <item>уТКа</item>
+        <item>аТТестат</item>
+        <item>ПТица</item>
+        <item>ПиКа</item>
+        <item>ПеЧь</item>
+        <item>ПиПетка</item>
+        <item>ПуШка</item>
+        <item>ПиСьмо</item>
+        <item>ПиВо</item>
+        <item>ПеРец</item>
+        <item>ПуГовица</item>
+        <item>ПаВлин</item>
+        <item>ПуДра</item>
+        <item>ПаКет</item>
+        <item>ПаТефон</item>
+    </array>
+    <array name="russian">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ь</item>
+        <item>Ы</item>
+        <item>Ъ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </array>
+    <array name="russian_files">
+        <item>abc_arka</item>
+        <item>abc_bur</item>
+        <item>abc_vintovka</item>
+        <item>abc_grabli</item>
+        <item>abc_doska</item>
+        <item>abc_edenica</item>
+        <item>abc_ershik</item>
+        <item>abc_jarovnya</item>
+        <item>abc_zemlyanika</item>
+        <item>abc_illuminator</item>
+        <item>abc_yogurt</item>
+        <item>abc_coffee</item>
+        <item>abc_lapty</item>
+        <item>abc_marka</item>
+        <item>abc_nitki</item>
+        <item>abc_obruch</item>
+        <item>abc_pacet</item>
+        <item>abc_rapira</item>
+        <item>abc_sunduk</item>
+        <item>abc_tabletka</item>
+        <item>abc_ykrop</item>
+        <item>abc_fishka</item>
+        <item>abc_halat</item>
+        <item>abc_zep</item>
+        <item>abc_chernika</item>
+        <item>abc_shaiba</item>
+        <item>abc_schekolda</item>
+        <item>abc_tvznak</item>
+        <item>abc_klyi</item>
+        <item>abc_myagkiy</item>
+        <item>abc_ekran</item>
+        <item>abc_ubka</item>
+        <item>abc_yantar</item>
+    </array>
+    <array name="russian_transcription">
+        <item>Арка</item>
+        <item>Бур</item>
+        <item>Винтовка</item>
+        <item>Грабли</item>
+        <item>Доска</item>
+        <item>Еденица</item>
+        <item>Ёршик</item>
+        <item>Жаровня</item>
+        <item>Земляника</item>
+        <item>Иллюминатор</item>
+        <item>Йогурт</item>
+        <item>Кофе</item>
+        <item>Лапти</item>
+        <item>Марка</item>
+        <item>Нитки</item>
+        <item>Обруч</item>
+        <item>Пакет</item>
+        <item>Рапира</item>
+        <item>Сундук</item>
+        <item>Таблетка</item>
+        <item>Укроп</item>
+        <item>Фишка</item>
+        <item>Халат</item>
+        <item>Цепь</item>
+        <item>Черника</item>
+        <item>Шайба</item>
+        <item>Щеколда</item>
+        <item>твердый знак</item>
+        <item>клавиша Ы</item>
+        <item>мягкий знак</item>
+        <item>Экран</item>
+        <item>Юбка</item>
+        <item>Янтарь</item>
+    </array>
+    <array name="thousand">
+        <item>МаНоМетр</item>
+        <item>МаНЖет</item>
+        <item>МоНеТа</item>
+        <item>МоНоКль</item>
+        <item>НуНЧаки</item>
+        <item>МеМБрана</item>
+        <item>МаНиШка</item>
+        <item>аНаНаС</item>
+        <item>НиМФа</item>
+        <item>НаМоРдник</item>
+        <item>НоЖНицы</item>
+        <item>Маленький оЖоГ</item>
+        <item>НоГТи</item>
+        <item>НоЖиК</item>
+        <item>Маленькая ЖуЧка</item>
+        <item>Маленький ГоБой</item>
+        <item>аНГеЛ</item>
+        <item>МаГиСтраль</item>
+        <item>НоЖоВка</item>
+        <item>аНГаР</item>
+        <item>МаяТНик</item>
+        <item>иНТеГрал</item>
+        <item>МеДиаТор</item>
+        <item>иНДиКатор</item>
+        <item>НиТоЧка</item>
+        <item>МоТоБлок</item>
+        <item>МеТЛа</item>
+        <item>уНиТаЗ</item>
+        <item>НаДФиль</item>
+        <item>МеТРо</item>
+        <item>МуХоМор</item>
+        <item>Майка КоЖаная</item>
+        <item>МаКеТ</item>
+        <item>МаКаКа</item>
+        <item>Навозная КуЧа</item>
+        <item>иНКуБатор</item>
+        <item>МуХоЛовка</item>
+        <item>МаКСим</item>
+        <item>МаХоВик</item>
+        <item>МиКРофон</item>
+        <item>НоЧНик</item>
+        <item>Маленький ЧиЖ</item>
+        <item>МеЧеТь</item>
+        <item>МяЧиК</item>
+        <item>Маленькая Чешуйчатая Щука</item>
+        <item>Набор ЩуПов</item>
+        <item>МоЧаЛка</item>
+        <item>НаЧеС</item>
+        <item>МяЧ Футбольный</item>
+        <item>Масть ЧеРви</item>
+        <item>Малиновый ПиоН</item>
+        <item>Много ПуГовиц</item>
+        <item>МоПеД</item>
+        <item>НаБойКи</item>
+        <item>Новая ПеЧь</item>
+        <item>Новая ПоБеда</item>
+        <item>аМПуЛа</item>
+        <item>НеБоСкреб</item>
+        <item>Натуральный БиФштекс</item>
+        <item>НаПеРсток</item>
+        <item>МеЛьНица</item>
+        <item>аНаЛьГин</item>
+        <item>МоЛоТок</item>
+        <item>МоЛоКо</item>
+        <item>НаЛиЧник</item>
+        <item>МоЛьБерт</item>
+        <item>МыШеЛовка</item>
+        <item>эМуЛьСия</item>
+        <item>НаШиВка</item>
+        <item>МыШЦа</item>
+        <item>НеЗНайка</item>
+        <item>МоЗГ</item>
+        <item>МоСТ</item>
+        <item>МаСКа</item>
+        <item>НоСоЧки</item>
+        <item>НеЗаБудка</item>
+        <item>НоСиЛки</item>
+        <item>НаСоС</item>
+        <item>НаЗВание</item>
+        <item>НоСоРог</item>
+        <item>Маленький ВиНтик</item>
+        <item>Набор ФуЖеров</item>
+        <item>НеВоД</item>
+        <item>Нейтральный ФиКсаж</item>
+        <item>дюйМоВоЧка</item>
+        <item>аМФиБия</item>
+        <item>НаВоЛочка</item>
+        <item>МаВЗолей</item>
+        <item>Новый ВэФ</item>
+        <item>аМФоРа</item>
+        <item>МаРМелад</item>
+        <item>МоРоЖеное</item>
+        <item>аМоРТизатор</item>
+        <item>МоРКовь</item>
+        <item>НаРуЧники</item>
+        <item>Медная ЦеПь</item>
+        <item>МаРЛя</item>
+        <item>МаРС</item>
+        <item>МуРаВей</item>
+        <item>НаРЦис</item>
+        <item>стол</item>
+        <item>ГоНГ</item>
+        <item>оГНеТушитель</item>
+        <item>ГаМаК</item>
+        <item>ЖеМЧуг</item>
+        <item>ГаМБургер</item>
+        <item>ЖеНьШень</item>
+        <item>ГНеЗдо</item>
+        <item>оГНиВо</item>
+        <item>ГеНеРатор</item>
+        <item>ГиГаНт</item>
+        <item>Голодная ГаГа</item>
+        <item>ЖГуТ</item>
+        <item>Голубая ГайКа</item>
+        <item>Желтая ГуЩа</item>
+        <item>Голубая Губная Помада</item>
+        <item>ЖиГуЛи</item>
+        <item>Глиняный ГуСь</item>
+        <item>Гнутые ГВозди</item>
+        <item>Голубые ГоРы</item>
+        <item>ЖеТоН</item>
+        <item>Железный ДоГ</item>
+        <item>Глиняная ДуДка</item>
+        <item>ГаДюКа</item>
+        <item>Жирная ТоЧка</item>
+        <item>оГромная ТpуБа</item>
+        <item>ГаДаЛка</item>
+        <item>Гнутый ДиСк</item>
+        <item>Желтый ДиВан</item>
+        <item>ГиДРант</item>
+        <item>Голубое оКНо</item>
+        <item>Грубая КоЖа</item>
+        <item>ЖаКеТ</item>
+        <item>иГрушечный КоК</item>
+        <item>Гравийная КуЧа</item>
+        <item>Железный КаБлук</item>
+        <item>ЖиКЛер</item>
+        <item>ГазоноКоСилка</item>
+        <item>Голубой КоВрик</item>
+        <item>Географическая КаРта</item>
+        <item>Железный ЧаН</item>
+        <item>Жаропрочный ЧуГун</item>
+        <item>Железная ЩеТка</item>
+        <item>ЖуЧоК</item>
+        <item>Голубя ЧуЧело</item>
+        <item>Железный ЩуП</item>
+        <item>Железная ЧаШа</item>
+        <item>Говорящие ЧаСы</item>
+        <item>Желтый ЩаВель</item>
+        <item>Желтая ЧеРта</item>
+        <item>ГиПНоз</item>
+        <item>Желтая ПоГанка</item>
+        <item>Желтая ПоДушка</item>
+        <item>ГуБКа</item>
+        <item>ГуБаЧ</item>
+        <item>ГиППопотам</item>
+        <item>ГоБеЛен</item>
+        <item>ГиПС</item>
+        <item>Жигулевское ПиВо</item>
+        <item>ЖаБРы</item>
+        <item>ГЛяНцеватель</item>
+        <item>ГоЛоГрамма</item>
+        <item>ЖёЛуДь</item>
+        <item>ГаЛаКтика</item>
+        <item>ГаЛоЧка</item>
+        <item>ГЛоБус</item>
+        <item>ГЛуШитель</item>
+        <item>ГаЛСтук</item>
+        <item>ГоЛоВастик</item>
+        <item>ГаЛеРа</item>
+        <item>ГуСеНица</item>
+        <item>Грязная СаЖа</item>
+        <item>ГаЗеТа</item>
+        <item>ГаЗиК</item>
+        <item>Жук уСаЧ</item>
+        <item>ГаЗоПровод</item>
+        <item>ЖеЗЛ</item>
+        <item>одна (1) СоСалка</item>
+        <item>Железный СиФон</item>
+        <item>ГаЗиРовка</item>
+        <item>ГаВаНа</item>
+        <item>Голубой ФуЖер</item>
+        <item>ГоВяДина</item>
+        <item>Газовый ФаКел</item>
+        <item>ЖВаЧка</item>
+        <item>Глубинный ВиБратор</item>
+        <item>Железная ВиЛка</item>
+        <item>ГВоЗдодер</item>
+        <item>Глазированные ВаФли</item>
+        <item>ГВаРдеец</item>
+        <item>ГРаНата</item>
+        <item>ГаРаЖ</item>
+        <item>ГРаДусник</item>
+        <item>ГиРьКи</item>
+        <item>ГоРЧица</item>
+        <item>ГРиБ</item>
+        <item>ГРеЛка</item>
+        <item>оГРыЗок</item>
+        <item>ГРаФин</item>
+        <item>оГуРеЦ</item>
+        <item>ДиНаМик</item>
+        <item>ТоМаГавк</item>
+        <item>ТеНТ</item>
+        <item>ТаНК</item>
+        <item>ТяНуЧка</item>
+        <item>ТуМБлер</item>
+        <item>Толстый НоЛь</item>
+        <item>ДиНоЗавр</item>
+        <item>ДНеВник</item>
+        <item>ТоНаР</item>
+        <item>ДЖиНсы</item>
+        <item>Длинный ГаГарин</item>
+        <item>ДоЖДевик</item>
+        <item>ДЖаКузи</item>
+        <item>ТяГаЧ</item>
+        <item>ДЖиП</item>
+        <item>Два ГоЛубя</item>
+        <item>ДЖаЗ</item>
+        <item>ДоГоВор</item>
+        <item>эТаЖеРка</item>
+        <item>ДеД-Мороз</item>
+        <item>Два уТюГа</item>
+        <item>Два ДиоДа</item>
+        <item>Длинные ДуХи</item>
+        <item>ДуДоЧка</item>
+        <item>Два ТоПора</item>
+        <item>ДяТеЛ</item>
+        <item>аТТеСтат</item>
+        <item>Две уДаВки</item>
+        <item>ТеТРадь</item>
+        <item>ТаХоМетр</item>
+        <item>Деревянная КиЖи</item>
+        <item>ДиКТофон</item>
+        <item>Два КеКса</item>
+        <item>Два КоЧана</item>
+        <item>ДиКоБраз</item>
+        <item>оДеКоЛон</item>
+        <item>ТаКСа</item>
+        <item>ТыКВа</item>
+        <item>оТКРывалка</item>
+        <item>ТаЧаНка</item>
+        <item>Два ЧуГунка</item>
+        <item>Деревянный ЩиТ</item>
+        <item>Деревянный яЩиК</item>
+        <item>ДоЩеЧки</item>
+        <item>Два ЧиПа</item>
+        <item>ТоЧиЛо</item>
+        <item>Деревянные ЧаСы</item>
+        <item>ТоЩий Воробей</item>
+        <item>Древний яЩеР</item>
+        <item>Туалетная БуМага</item>
+        <item>Две ПуГовицы</item>
+        <item>аДаПТер</item>
+        <item>ТяПКа</item>
+        <item>ТаПоЧки</item>
+        <item>Два БоБа</item>
+        <item>ДиПЛомат</item>
+        <item>ТуБуС</item>
+        <item>ДуБовый Веник</item>
+        <item>ТаБуРет</item>
+        <item>уДЛиНитель</item>
+        <item>ТеЛоГрейка</item>
+        <item>ТеЛеТайп</item>
+        <item>ТеЛеКамера</item>
+        <item>уДиЛиЩе</item>
+        <item>ТеЛеБашня</item>
+        <item>ДоЛЛар</item>
+        <item>ТеЛеСкоп</item>
+        <item>ТеЛеФон</item>
+        <item>Душ ШаРко</item>
+        <item>ТеСьМа</item>
+        <item>Две СиГареты</item>
+        <item>ТоСТер</item>
+        <item>ТиСКи</item>
+        <item>ТыСяЧа</item>
+        <item>ДСП</item>
+        <item>ТоСоЛ</item>
+        <item>Две СоСалки</item>
+        <item>Толстая СВинья</item>
+        <item>ДеСеРт</item>
+        <item>оДуВаНчик</item>
+        <item>ДВиГатель</item>
+        <item>оТВеТчик</item>
+        <item>ТюФяК</item>
+        <item>ДеВоЧка</item>
+        <item>Две ВоБлы</item>
+        <item>ТуФЛи</item>
+        <item>Два ВеСла</item>
+        <item>Детская ФуФайка</item>
+        <item>оТВеРтка</item>
+        <item>ТуРНик</item>
+        <item>ДиРиЖабль</item>
+        <item>ТоРТ</item>
+        <item>ТаРаКан</item>
+        <item>ТРеЩотка</item>
+        <item>ТРуБа</item>
+        <item>ДРеЛь</item>
+        <item>ТРуСы</item>
+        <item>ДеРеВо</item>
+        <item>ТеРРорист</item>
+        <item>КаМиН</item>
+        <item>КНиГа</item>
+        <item>КоНДенсатор</item>
+        <item>КоНьКи</item>
+        <item>КуМаЧ</item>
+        <item>КНоПка</item>
+        <item>КаМыШ</item>
+        <item>КаНиСтра</item>
+        <item>КоНФета</item>
+        <item>КаМеРтон</item>
+        <item>КоЖаНка</item>
+        <item>Красная ЖиЖа</item>
+        <item>КоГоТь</item>
+        <item>КоЖуХ</item>
+        <item>число пи</item>
+        <item>КГБ</item>
+        <item>КеГЛя</item>
+        <item>Красивый ЖаСмин</item>
+        <item>три (3) ГВоздя</item>
+        <item>КоЖуРа</item>
+        <item>ХиТиН</item>
+        <item>Хот-ДоГ</item>
+        <item>КаТоД</item>
+        <item>ХоДиКи</item>
+        <item>КеТЧуп</item>
+        <item>КаТаПульта</item>
+        <item>КаТуШка</item>
+        <item>КуТуЗов</item>
+        <item>КаТаФалк</item>
+        <item>КаТеР</item>
+        <item>аККуМулятор</item>
+        <item>три (3) КеГли</item>
+        <item>КаКТус</item>
+        <item>КоКа-Кола</item>
+        <item>Компостная КуЧа</item>
+        <item>Красные КуБики</item>
+        <item>КуКЛа</item>
+        <item>КоКоС</item>
+        <item>Крепкий КоФе</item>
+        <item>аККоРдеон</item>
+        <item>ХиЩНик</item>
+        <item>три (3) ЧиЖа</item>
+        <item>КоЧеТ</item>
+        <item>КауЧуК</item>
+        <item>три (3) ЧуЧело</item>
+        <item>ХаЧаПури</item>
+        <item>КаЧеЛи</item>
+        <item>Калькулятор-ЧаСы</item>
+        <item>Крепкий ЧиФир</item>
+        <item>КоЧеРга</item>
+        <item>КаБиНа</item>
+        <item>три (3) БоГатыря</item>
+        <item>КиПяТильник</item>
+        <item>КаПКан</item>
+        <item>КаБаЧок</item>
+        <item>три (3) ПиПетки</item>
+        <item>КаПюШон</item>
+        <item>КаПСула</item>
+        <item>Кружка ПиВа</item>
+        <item>КоБуРа</item>
+        <item>КаЛеНдарь</item>
+        <item>КоЛГейт</item>
+        <item>КаЛиТка</item>
+        <item>КаЛьКулятор</item>
+        <item>КЛюЧи</item>
+        <item>ХЛеБ</item>
+        <item>КЛюШка</item>
+        <item>КЛиЗма</item>
+        <item>КЛеВер</item>
+        <item>КЛаРнет</item>
+        <item>КоСМетичка</item>
+        <item>три (3) СиГареты</item>
+        <item>КаСТрюля</item>
+        <item>КаСКа</item>
+        <item>КуСаЧки</item>
+        <item>Красная ЗиПпо</item>
+        <item>КоЗеЛ</item>
+        <item>КаССета</item>
+        <item>КуЗоВ</item>
+        <item>Коробочка СыРа</item>
+        <item>КоФейНик</item>
+        <item>Красный ФуЖер</item>
+        <item>КюВеТа</item>
+        <item>КВаКер</item>
+        <item>ХВоЩ</item>
+        <item>КоВБойка</item>
+        <item>КоВШ</item>
+        <item>КВаС</item>
+        <item>КоФеВарка</item>
+        <item>аКВаРель</item>
+        <item>КоРоНа</item>
+        <item>КРуЖка</item>
+        <item>КоРыТо</item>
+        <item>КРоКодил</item>
+        <item>КРюЧок</item>
+        <item>КРаБ</item>
+        <item>КРыШка</item>
+        <item>КРеСт</item>
+        <item>КРеВетка</item>
+        <item>КоРиЦа</item>
+        <item>Черная МиНа</item>
+        <item>Четыре НоГи</item>
+        <item>ЧеМоДан</item>
+        <item>ЩеНоК</item>
+        <item>Черный МяЧ</item>
+        <item>ЧеМПион</item>
+        <item>Четыре МеЛка</item>
+        <item>Черные НоСки</item>
+        <item>Черный НаВигатор</item>
+        <item>ЧайНиЦа</item>
+        <item>ЧуГуН</item>
+        <item>Четыре ЖГута</item>
+        <item>Черный ГуТалин</item>
+        <item>Четыре ГайКи</item>
+        <item>Четыре ЖуЧка</item>
+        <item>Черная ЖаБа</item>
+        <item>ЩеГоЛ</item>
+        <item>Черный ГуСь</item>
+        <item>Четыре ГВоздики</item>
+        <item>Чайный ГРиб</item>
+        <item>ЩеТиНа</item>
+        <item>Черный ДоГ</item>
+        <item>Четыре ДиоДа</item>
+        <item>ЧёТКи</item>
+        <item>ЩёТоЧка</item>
+        <item>Черный ДюБель</item>
+        <item>уЧиТеЛь</item>
+        <item>ЧуДеСа</item>
+        <item>ЧеснокоДаВка</item>
+        <item>ЧаДРа</item>
+        <item>ЧеКаНка</item>
+        <item>ЧиКаГо</item>
+        <item>ЧуКоТка</item>
+        <item>Четыре КаКтуса</item>
+        <item>ЧуКЧа</item>
+        <item>Черный КуБ</item>
+        <item>ЧеХоЛ</item>
+        <item>ЧеКиСт</item>
+        <item>ЧеХоВ</item>
+        <item>ЧаКРа</item>
+        <item>оЧеЧНик</item>
+        <item>оЧиЩенные оГурцы</item>
+        <item>ЧеЧеТка</item>
+        <item>ЩёЧКи</item>
+        <item>Ча-Ча-Ча</item>
+        <item>Четыре ЩеПки</item>
+        <item>ЧуЧеЛо</item>
+        <item>Четверть ЧаСа</item>
+        <item>оЧиЩенные Фрукты</item>
+        <item>Черный ЧеРеп</item>
+        <item>Черный БаНан</item>
+        <item>Черный БеГемот</item>
+        <item>ЩеПоТка</item>
+        <item>ЩеПКа</item>
+        <item>ЩиПЧики</item>
+        <item>Читальный аППарат</item>
+        <item>ЩуПаЛьце</item>
+        <item>ЧиПСы</item>
+        <item>ЧаПаеВ</item>
+        <item>ЧеБуРашка</item>
+        <item>ЧеЛНок</item>
+        <item>Чайная ЛоЖка</item>
+        <item>ЧаЛДа</item>
+        <item>ЧуЛКи</item>
+        <item>ЩеЛоЧь</item>
+        <item>ЩеЛБан</item>
+        <item>Черная ШеЛковица</item>
+        <item>ЧеЛюСть</item>
+        <item>ЧеЛоВек</item>
+        <item>Чугунный ШаР</item>
+        <item>ЧеСНок</item>
+        <item>Четыре СиГары</item>
+        <item>ЧаСТокол</item>
+        <item>ЧаСиКи</item>
+        <item>Черный СыЧ</item>
+        <item>ЧиЗБургер</item>
+        <item>ЧиСЛо</item>
+        <item>Чесночный СоуС</item>
+        <item>ЧаСоВня</item>
+        <item>Черный ЗаяЦ</item>
+        <item>Черный ФоНарь</item>
+        <item>Черная ФиГура</item>
+        <item>Чистая ВоДа</item>
+        <item>Черный ВыКлючатель</item>
+        <item>Чистые ВеЩи</item>
+        <item>Черный эФиоП</item>
+        <item>ЩаВеЛь</item>
+        <item>Черная ВиЗитка</item>
+        <item>Черные Вязаные Варежки</item>
+        <item>Черничное ВаРенье</item>
+        <item>ЧеРНила</item>
+        <item>Четыре РоГа</item>
+        <item>ЧеРТ</item>
+        <item>ЧиРКалка</item>
+        <item>ЧеРЧение</item>
+        <item>ЧеРеПаха</item>
+        <item>ЧеРеШня</item>
+        <item>Черная РоЗа</item>
+        <item>ЧеРВяк</item>
+        <item>яЩеРиЦа</item>
+        <item>БаНаН</item>
+        <item>ПиНГвин</item>
+        <item>ПоМиДор</item>
+        <item>БиНоКль</item>
+        <item>БаНоЧка</item>
+        <item>БоМБа</item>
+        <item>ПеНаЛ</item>
+        <item>ПеМЗа</item>
+        <item>БМВ</item>
+        <item>БуМеРанг</item>
+        <item>ПиЖаМа</item>
+        <item>БаГаЖник</item>
+        <item>БиГуДи</item>
+        <item>Пятнистый ЖуК</item>
+        <item>ПуГаЧ</item>
+        <item>Белая ЖаБа</item>
+        <item>ПуГаЛо</item>
+        <item>ПеГаС</item>
+        <item>ПуГоВица</item>
+        <item>аБаЖуР</item>
+        <item>ПауТиНа</item>
+        <item>ПиДЖак</item>
+        <item>ПоДДон</item>
+        <item>ПяТКа</item>
+        <item>ПяТаЧок</item>
+        <item>ПоДПора</item>
+        <item>БуТыЛка</item>
+        <item>ПоДСтаканник</item>
+        <item>ПаТеФон</item>
+        <item>ПуДРа</item>
+        <item>ПиКНик</item>
+        <item>БуХГалтерия</item>
+        <item>оБъеКТив</item>
+        <item>ПиККоло</item>
+        <item>Бессмертный КоЩей</item>
+        <item>ПиКаП</item>
+        <item>ПаКЛя</item>
+        <item>БоКС</item>
+        <item>БуКВы</item>
+        <item>БеКаР</item>
+        <item>ПеЧеНье</item>
+        <item>ПиЧуГа</item>
+        <item>ПеЧаТь</item>
+        <item>БаЧоК</item>
+        <item>Полосатое ЧуЧело</item>
+        <item>Белый ЧеБурек</item>
+        <item>ПЧеЛы</item>
+        <item>Полосатые ЧаСы</item>
+        <item>БеЧёВка</item>
+        <item>ПеЩеРа</item>
+        <item>БуБеН</item>
+        <item>ПоПуГай</item>
+        <item>ПиПеТка</item>
+        <item>ПаПКа</item>
+        <item>БаБоЧка</item>
+        <item>БаоБаБ</item>
+        <item>ПеПеЛьница</item>
+        <item>ПаПуаС</item>
+        <item>ПуПоВина</item>
+        <item>ПаПоРотник</item>
+        <item>ПаяЛьНик</item>
+        <item>ПЛуГ</item>
+        <item>ПаЛаТка</item>
+        <item>ПуШКа</item>
+        <item>ПаЛаЧ</item>
+        <item>ПоЛиП</item>
+        <item>БаЛаЛайка</item>
+        <item>ПЛаСтилин</item>
+        <item>ПоЛоВник</item>
+        <item>ПаЛеЦ</item>
+        <item>ПиСьМо</item>
+        <item>ПейЗаЖ</item>
+        <item>ПиСТолет</item>
+        <item>БаСКетбол</item>
+        <item>ПеСоЧница</item>
+        <item>ПаСПорт</item>
+        <item>ПьеЗоэЛемент</item>
+        <item>ПиССуар</item>
+        <item>ПоЗВоночник</item>
+        <item>ПуЗыРь</item>
+        <item>БиВеНь</item>
+        <item>Полосатый ВаГон</item>
+        <item>ПоВоДок</item>
+        <item>ПуФиК</item>
+        <item>Полоски оВоЩные</item>
+        <item>ПиВБар</item>
+        <item>ПаВЛин</item>
+        <item>ПоВяЗка</item>
+        <item>ПиВоВар</item>
+        <item>ПеВеЦ</item>
+        <item>ПиРаМида</item>
+        <item>ПРуЖина</item>
+        <item>ПРоТивогаз</item>
+        <item>ПаРиК</item>
+        <item>ПРиЩепка</item>
+        <item>БаРаБан</item>
+        <item>ПаРаШют</item>
+        <item>ПаРуС</item>
+        <item>БРеВно</item>
+        <item>ПеРеЦ</item>
+        <item>ЛиМоН</item>
+        <item>ЛиНГафон</item>
+        <item>ЛаНДыш</item>
+        <item>ЛиНейКа</item>
+        <item>Шипованный МяЧ</item>
+        <item>ЛаМПа</item>
+        <item>ШиНеЛь</item>
+        <item>аЛМаЗ</item>
+        <item>ЛеНиВец</item>
+        <item>ШНуРок</item>
+        <item>ШаГоМер</item>
+        <item>ЛеГкая Гирька</item>
+        <item>ЛоГоТип</item>
+        <item>ЛоЖКа</item>
+        <item>ЛеГоЧница</item>
+        <item>аЛГеБра</item>
+        <item>ЛяГуШка</item>
+        <item>ЛоГиСтика</item>
+        <item>ЛеГаВая</item>
+        <item>ЛаГеРь</item>
+        <item>ШТаНга</item>
+        <item>ЛеДоГенератор</item>
+        <item>ШТаТив</item>
+        <item>уЛиТКа</item>
+        <item>ЛоДоЧка</item>
+        <item>ШТоПор</item>
+        <item>ЛаДоШи</item>
+        <item>ЛоТоС</item>
+        <item>ШеДеВр</item>
+        <item>ШТуРвал</item>
+        <item>ШаХМаты</item>
+        <item>аЛКоГоль</item>
+        <item>ЛоКаТор</item>
+        <item>Широкая КойКа</item>
+        <item>ЛиХаЧ</item>
+        <item>ЛейКоПластырь</item>
+        <item>ШоКоЛад</item>
+        <item>эЛиКСир</item>
+        <item>ШКаФ</item>
+        <item>ШКуРка</item>
+        <item>ЛуЧиНа</item>
+        <item>ЛаЧуГа</item>
+        <item>эЛектрическая ЩеТка</item>
+        <item>ШаеЧКа</item>
+        <item>Лесная ЧаЩа</item>
+        <item>эЛектрический ЩуП</item>
+        <item>Широкая ЩеЛь</item>
+        <item>Люминесцентные ЧаСы</item>
+        <item>ЛеЧебная Вода</item>
+        <item>Ленточный ЧеРвь</item>
+        <item>аЛьБоМ</item>
+        <item>ШПаГа</item>
+        <item>ЛоПаТа</item>
+        <item>ЛоПуХ</item>
+        <item>ШаПоЧка</item>
+        <item>Школьная ПаПка</item>
+        <item>ШПиЛь</item>
+        <item>ЛоБЗик</item>
+        <item>ЛюБоВь</item>
+        <item>ШПРиц</item>
+        <item>ШЛеМ</item>
+        <item>ШЛаГбаум</item>
+        <item>ЛоШаДь</item>
+        <item>ШиШКа</item>
+        <item>Лазерный ЛуЧ</item>
+        <item>ШЛюПка</item>
+        <item>ШаШЛык</item>
+        <item>иЛЛюЗия</item>
+        <item>ШЛейФ</item>
+        <item>ШуЛеР</item>
+        <item>ЛеСеНка</item>
+        <item>ЛеЗГинка</item>
+        <item>ЛюСТра</item>
+        <item>ЛеСКа</item>
+        <item>ЛиСиЧка</item>
+        <item>Широкое СоПло</item>
+        <item>оЛовянный СоЛдатик</item>
+        <item>ЛаССо</item>
+        <item>ЛеЗВие</item>
+        <item>ЛаЗеР</item>
+        <item>ЛаВиНа</item>
+        <item>ШВейная иГла</item>
+        <item>ЛиФТ</item>
+        <item>ЛаВКа</item>
+        <item>ЛиФЧик</item>
+        <item>ШВаБра</item>
+        <item>ЛаВаШ</item>
+        <item>Широкая ВаЗа</item>
+        <item>Шоколадные ВаФли</item>
+        <item>ШиФР</item>
+        <item>ШаРНир</item>
+        <item>ШаРЖ</item>
+        <item>ШоРТы</item>
+        <item>ШаРиК</item>
+        <item>ЛаРЧик</item>
+        <item>ШуРуП</item>
+        <item>ШеРШень</item>
+        <item>ШеРСть</item>
+        <item>ШаРФ</item>
+        <item>Штанген-ЦиРкуль</item>
+        <item>оСьМиНог</item>
+        <item>СНеЖинка</item>
+        <item>ЗоНТ</item>
+        <item>СуМКа</item>
+        <item>СМыЧок</item>
+        <item>СоМБреро</item>
+        <item>СаМоЛет</item>
+        <item>ЗаМаЗка</item>
+        <item>СаМоВар</item>
+        <item>СМоРодина</item>
+        <item>ЗаЖиМ</item>
+        <item>ЗаЖиГалка</item>
+        <item>ЗаГоТовка</item>
+        <item>СайГаК</item>
+        <item>СГуЩенка</item>
+        <item>иЗГиБ</item>
+        <item>ЗаГЛушка</item>
+        <item>ЗаГС</item>
+        <item>ЗаГоВор</item>
+        <item>СиГаРеты</item>
+        <item>СТаНок</item>
+        <item>СТоГ</item>
+        <item>СТаТуэтка</item>
+        <item>СТаКан</item>
+        <item>ЗаТоЧка</item>
+        <item>СТоП</item>
+        <item>СТуЛ</item>
+        <item>СаДиСт</item>
+        <item>СТаВни</item>
+        <item>СТРекоза</item>
+        <item>СеКуНдомер</item>
+        <item>Старая ХиЖина</item>
+        <item>СКаТ</item>
+        <item>СКаКалка</item>
+        <item>СеКаЧ</item>
+        <item>СКоБа</item>
+        <item>СКаЛка</item>
+        <item>СаКСофон</item>
+        <item>СКоВорода</item>
+        <item>СКРипка</item>
+        <item>ЗайЧоНок</item>
+        <item>СыЧуГ</item>
+        <item>СЧеТы</item>
+        <item>СуЧоК</item>
+        <item>СЧетЧик</item>
+        <item>Соли ЩеПотка</item>
+        <item>ЗаЩеЛка</item>
+        <item>ЗубоЧиСтки</item>
+        <item>СоЧиВо</item>
+        <item>ЗаЧаРованные</item>
+        <item>ЗаПоНка</item>
+        <item>СаПоГи</item>
+        <item>СПуТник</item>
+        <item>аЗБуКа</item>
+        <item>СПиЧки</item>
+        <item>СуППорт</item>
+        <item>ЗуБиЛо</item>
+        <item>ЗаПиСка</item>
+        <item>СаПФир</item>
+        <item>ЗаБоР</item>
+        <item>СЛоН</item>
+        <item>ЗаЛоГ</item>
+        <item>СЛайД</item>
+        <item>СуШКа</item>
+        <item>иЗЛуЧатель</item>
+        <item>СаЛьПа</item>
+        <item>СуШиЛка</item>
+        <item>СиЛоС</item>
+        <item>СЛиВа</item>
+        <item>иЗоЛяЦия</item>
+        <item>СоСНа</item>
+        <item>Снежный СуГроб</item>
+        <item>ЗаСТежка</item>
+        <item>СоСКа</item>
+        <item>СоСоЧек</item>
+        <item>Золотые ЗуБы</item>
+        <item>СоСуЛьки</item>
+        <item>СоСиСки</item>
+        <item>ЗаСоВ</item>
+        <item>ЗаЗоР</item>
+        <item>ЗВоНок</item>
+        <item>оСВеЖитель</item>
+        <item>СВеТофор</item>
+        <item>СВеКла</item>
+        <item>СВеЧа</item>
+        <item>СВоБода</item>
+        <item>СуФЛе</item>
+        <item>СВиСток</item>
+        <item>ЗаВиВка</item>
+        <item>СВеРло</item>
+        <item>СиРеНа</item>
+        <item>СеРьГа</item>
+        <item>СеРДце</item>
+        <item>ЗеРКало</item>
+        <item>СоРоЧка</item>
+        <item>СеРП</item>
+        <item>оСЦиЛлограф</item>
+        <item>СРеЗ</item>
+        <item>СеРВант</item>
+        <item>Стационарная РаЦия</item>
+        <item>ВаННа</item>
+        <item>ВиНоГрад</item>
+        <item>ВеНТилятор</item>
+        <item>ВеНиК</item>
+        <item>ВеНЧик</item>
+        <item>ВаМПир</item>
+        <item>ФиНиШ</item>
+        <item>ВНиЗ</item>
+        <item>ФаНФара</item>
+        <item>ФоНаРь</item>
+        <item>ВаГоНетка</item>
+        <item>ВыЖиГатель</item>
+        <item>ФаГоТ</item>
+        <item>Винт с ГайКой</item>
+        <item>коФейная ГуЩа</item>
+        <item>Винный ЖБан</item>
+        <item>Вареный ЖеЛток</item>
+        <item>ФуГаС</item>
+        <item>ВиГВам</item>
+        <item>ФиГуРы</item>
+        <item>аВТоМат</item>
+        <item>ФоТоГрафия</item>
+        <item>ФоТоТаймер</item>
+        <item>аВТоКар</item>
+        <item>ВеТоЧка</item>
+        <item>ФуТБолка</item>
+        <item>ФуТЛяр</item>
+        <item>Виниловый ДиСк</item>
+        <item>Фруктовый ТВорожок</item>
+        <item>ВеДРо</item>
+        <item>ФотоКаМера</item>
+        <item>8 кг</item>
+        <item>ВыХоД</item>
+        <item>Воздушная КуКуруза</item>
+        <item>Высокие КаЧели</item>
+        <item>Вельветовая КеПка</item>
+        <item>ФаКеЛ</item>
+        <item>ФоКуС</item>
+        <item>Вязаная КоФта</item>
+        <item>ВаКЦина</item>
+        <item>Фарфоровый ЧайНик</item>
+        <item>ВеЧный оГонь</item>
+        <item>ВеЧный Двигатель</item>
+        <item>оВеЧКа</item>
+        <item>Филина ЧуЧело</item>
+        <item>Фигурные ЧиПсы</item>
+        <item>Вязаный ЧуЛок</item>
+        <item>оВоЩеСушилка</item>
+        <item>Вареный ЩаВель</item>
+        <item>оВоЩеРезка</item>
+        <item>ФотоБуМага</item>
+        <item>Вязаная ПуГовица</item>
+        <item>Велосипедная ПеДаль</item>
+        <item>Винни-ПуХ</item>
+        <item>ВыПеЧка</item>
+        <item>ФотоаППарат</item>
+        <item>ФотоПЛенка</item>
+        <item>ВыПиСка</item>
+        <item>Высокий ПуФик</item>
+        <item>ФБР</item>
+        <item>ВоЛаН</item>
+        <item>ФЛаГ</item>
+        <item>ФиЛьТр</item>
+        <item>ВаЛиК</item>
+        <item>ВоЛЧок</item>
+        <item>ФотоаЛьБом</item>
+        <item>ВеШаЛка</item>
+        <item>ВеЛоСипед</item>
+        <item>ВоЛьВо</item>
+        <item>Воздушный ШаР</item>
+        <item>ВаЗоН</item>
+        <item>оВСюГ</item>
+        <item>ВъеЗД</item>
+        <item>ФиЗиКа</item>
+        <item>ВаЗоЧка</item>
+        <item>ВСПышка</item>
+        <item>ФаСоЛь</item>
+        <item>ФоССа</item>
+        <item>ФоСФор</item>
+        <item>ВиЗиР</item>
+        <item>Виноградное ВиНо</item>
+        <item>Восковая ФиГура</item>
+        <item>Воздушная ВаТа</item>
+        <item>ВыВиХ</item>
+        <item>Вареные оВоЩи</item>
+        <item>Вяленая ВоБла</item>
+        <item>ВаФеЛьница</item>
+        <item>ВыВеСка</item>
+        <item>три восьмерки</item>
+        <item>ВВЦ</item>
+        <item>ФаРаоН</item>
+        <item>ФуРаЖка</item>
+        <item>ВеРТолет</item>
+        <item>аФРиКа</item>
+        <item>ВРаЧ</item>
+        <item>ВеРБлюд</item>
+        <item>ФаРШ</item>
+        <item>ФеРЗь</item>
+        <item>ВеРеВка</item>
+        <item>аВРоРа</item>
+        <item>РеМеНь</item>
+        <item>РиНГ</item>
+        <item>аРМаТура</item>
+        <item>РаМКа</item>
+        <item>РаНЧо</item>
+        <item>РоМБ</item>
+        <item>РоМаШка</item>
+        <item>оРужейное МаСло</item>
+        <item>ЦиНоВка</item>
+        <item>РаНеЦ</item>
+        <item>аРГаМак</item>
+        <item>РоГоЖа</item>
+        <item>РоГаТка</item>
+        <item>РоЖоК</item>
+        <item>РоГаЧ</item>
+        <item>РеГБи</item>
+        <item>иеРоГЛиф</item>
+        <item>ЛеНиН</item>
+        <item>РЖаВчина</item>
+        <item>РоЖиЦа</item>
+        <item>оРДеН</item>
+        <item>РаДуГа</item>
+        <item>РаДиаТор</item>
+        <item>РеДьКа</item>
+        <item>РадиоТоЧка</item>
+        <item>Резиновая ДуБинка</item>
+        <item>РеТуШь</item>
+        <item>РеДиСка</item>
+        <item>аРТеФакт</item>
+        <item>РаДаР</item>
+        <item>РуКоМойник</item>
+        <item>Рваная КоЖа</item>
+        <item>РаКеТа</item>
+        <item>оРеХоКол</item>
+        <item>Розовые КаЧели</item>
+        <item>РуКоПись</item>
+        <item>ЦиКЛя</item>
+        <item>РюКЗак</item>
+        <item>РаКоВина</item>
+        <item>РеКоРд</item>
+        <item>РуЧНой (эспандер)</item>
+        <item>РыЧаГ</item>
+        <item>Резиновая ЩеТка</item>
+        <item>РуЧКа</item>
+        <item>Румяные ЩеЧки</item>
+        <item>Розовый ЧеПчик</item>
+        <item>Русская ЧаШа</item>
+        <item>РадиоЧаСы</item>
+        <item>РуЧной Фонарик</item>
+        <item>РуЧной Радар</item>
+        <item>РуБаНок</item>
+        <item>Рукав ПоЖарный</item>
+        <item>РоБоТ</item>
+        <item>РыБКа</item>
+        <item>РяБЧик</item>
+        <item>Ром-БаБа</item>
+        <item>аРБаЛет</item>
+        <item>аРБуЗ</item>
+        <item>Разливное ПиВо</item>
+        <item>РуПоР</item>
+        <item>ЦиЛиНдр</item>
+        <item>Цветочный ЛуГ</item>
+        <item>РуЛеТка</item>
+        <item>РоЛиКи</item>
+        <item>Цилиндр и ЛиЧинка</item>
+        <item>РаШПиль</item>
+        <item>Резиновый ШЛанг</item>
+        <item>РеЛьСы</item>
+        <item>РеЛьеФ</item>
+        <item>Розовый ШаРик</item>
+        <item>РеСНицы</item>
+        <item>РоЗГи</item>
+        <item>РоЗеТка</item>
+        <item>иРиСКи</item>
+        <item>РоЗоЧка</item>
+        <item>РеСПиратор</item>
+        <item>РуСаЛка</item>
+        <item>РеЗиСтор</item>
+        <item>РейСФедер</item>
+        <item>РеЗеЦ</item>
+        <item>РеВуН</item>
+        <item>Цветные ФиГуры</item>
+        <item>ЦВеТок</item>
+        <item>РаФиК</item>
+        <item>Розовая оВЧина</item>
+        <item>РиФленая Бумага</item>
+        <item>РеФЛектор</item>
+        <item>Цифровые ВеСы</item>
+        <item>ЦВетной Фартук</item>
+        <item>ЦиФеРблат</item>
+        <item>оРанжевая уРНа</item>
+        <item>оРанжевая оРиГами</item>
+        <item>аРаРаТ</item>
+        <item>ЦиРКуль</item>
+        <item>Цветные РуЧки</item>
+        <item>РеЦеПт</item>
+        <item>РоРШах</item>
+        <item>Ржавая ЦиСтерна</item>
+        <item>ЦаРеВна</item>
+        <item>РыЦаРь</item>
+    </array>
+    <array name="thousand_files">
+        <item>manometer</item>
+        <item>cup</item>
+        <item>Coin</item>
+        <item>Monocle</item>
+        <item>nunchaku</item>
+        <item>Membrane</item>
+        <item>dickey</item>
+        <item>pineapple</item>
+        <item>Nymph</item>
+        <item>Muzzle</item>
+        <item>Scissors</item>
+        <item>Small_burns</item>
+        <item>nails</item>
+        <item>knife</item>
+        <item>Little_bugs</item>
+        <item>Little_Oboe</item>
+        <item>angel</item>
+        <item>Highway</item>
+        <item>Hacksaw</item>
+        <item>hangar</item>
+        <item>Pendulum</item>
+        <item>integral</item>
+        <item>Mediator</item>
+        <item>indicator</item>
+        <item>thread</item>
+        <item>Tillers</item>
+        <item>Broom</item>
+        <item>toilet</item>
+        <item>Needle</item>
+        <item>Metro</item>
+        <item>Amanita</item>
+        <item>Mike_leather</item>
+        <item>Layout</item>
+        <item>Toque</item>
+        <item>dunghill</item>
+        <item>incubator</item>
+        <item>flytrap</item>
+        <item>Maksim</item>
+        <item>Flywheel</item>
+        <item>Microphone</item>
+        <item>night_light</item>
+        <item>Small_siskin</item>
+        <item>Mosque</item>
+        <item>ball</item>
+        <item>Small_Scale_Pike</item>
+        <item>set_of_probes</item>
+        <item>wisp</item>
+        <item>Bouffant</item>
+        <item>Soccer_ball</item>
+        <item>Colour_worms</item>
+        <item>Raspberry_peony</item>
+        <item>Many_buttons</item>
+        <item>Moped</item>
+        <item>heeltap</item>
+        <item>new_furnace</item>
+        <item>New_victory</item>
+        <item>ampoule</item>
+        <item>Skyscraper</item>
+        <item>Natural_steak</item>
+        <item>Thimble</item>
+        <item>Mill</item>
+        <item>analgene</item>
+        <item>hammer</item>
+        <item>Milk</item>
+        <item>platband</item>
+        <item>Easel</item>
+        <item>Mousetrap</item>
+        <item>emulsion</item>
+        <item>Stripe</item>
+        <item>Muscle</item>
+        <item>know_nothing</item>
+        <item>Brain</item>
+        <item>Bridge</item>
+        <item>Mask</item>
+        <item>socks</item>
+        <item>forget_me_not</item>
+        <item>Stretcher</item>
+        <item>Pump</item>
+        <item>Name</item>
+        <item>Rhinoceros</item>
+        <item>small_screw</item>
+        <item>set_of_wine_glasses</item>
+        <item>Seine</item>
+        <item>Neutral_fixer</item>
+        <item>Thumbelina</item>
+        <item>amphibian</item>
+        <item>Pillowcase</item>
+        <item>Mausoleum</item>
+        <item>New_WEF</item>
+        <item>amphora</item>
+        <item>jujube</item>
+        <item>Ice_cream</item>
+        <item>shock_absorber</item>
+        <item>Carrot</item>
+        <item>Handcuffs</item>
+        <item>Copper_chain</item>
+        <item>Gauze</item>
+        <item>Mars</item>
+        <item>Ant</item>
+        <item>Narcissus</item>
+        <item>table</item>
+        <item>Gong</item>
+        <item>fire_extinguisher</item>
+        <item>Hammock</item>
+        <item>Pearl</item>
+        <item>Hamburger</item>
+        <item>Ginseng</item>
+        <item>Nest</item>
+        <item>flint</item>
+        <item>Generator</item>
+        <item>Giant</item>
+        <item>Hungry_Gaga</item>
+        <item>tourniquet</item>
+        <item>Blue_nuts</item>
+        <item>Yellow_thick</item>
+        <item>Blue_Lipstick</item>
+        <item>Zhiguli</item>
+        <item>Clay_goose</item>
+        <item>Bent_nails</item>
+        <item>Blue_Mountains</item>
+        <item>token</item>
+        <item>Iron_Dog</item>
+        <item>clay_pipe</item>
+        <item>Viper</item>
+        <item>fat_point</item>
+        <item>huge_t_pube</item>
+        <item>soothsayer</item>
+        <item>bent_DiSk</item>
+        <item>Yellow_sofa</item>
+        <item>Hydrant</item>
+        <item>blue_window</item>
+        <item>Rugged_Leather</item>
+        <item>Jacket</item>
+        <item>toy_CoC</item>
+        <item>pile_of_gravel</item>
+        <item>Iron_heel</item>
+        <item>Jet</item>
+        <item>lawn_mower</item>
+        <item>Blue_Rug</item>
+        <item>Geographic_map</item>
+        <item>Iron_Chan</item>
+        <item>Heat_resistant_cast_iron</item>
+        <item>wire_brush</item>
+        <item>tipster</item>
+        <item>Pigeon_stuffed</item>
+        <item>Iron_probe</item>
+        <item>Iron_bowl</item>
+        <item>Talking_clock</item>
+        <item>Yellow_sorrel</item>
+        <item>Yellow_traits</item>
+        <item>Hypnosis</item>
+        <item>Yellow_toadstool</item>
+        <item>Yellow_Cushion</item>
+        <item>Sponge</item>
+        <item>sloth</item>
+        <item>Hippopotamus</item>
+        <item>Tapestry</item>
+        <item>Gypsum</item>
+        <item>Zhiguli_beer</item>
+        <item>Gills</item>
+        <item>GLyaNtsevatel</item>
+        <item>Hologram</item>
+        <item>Acorn</item>
+        <item>Galaxy</item>
+        <item>Check_mark</item>
+        <item>Globe</item>
+        <item>Muffler</item>
+        <item>Tie</item>
+        <item>Tadpole</item>
+        <item>Galley</item>
+        <item>Caterpillar</item>
+        <item>Dirty_soot</item>
+        <item>Newspaper</item>
+        <item>jeep</item>
+        <item>Usachev_Beetle</item>
+        <item>gas_pipeline</item>
+        <item>rod</item>
+        <item>one_SoSalka</item>
+        <item>Iron_siphon</item>
+        <item>aeration</item>
+        <item>Havana</item>
+        <item>Blue_wine_glasses</item>
+        <item>Beef</item>
+        <item>Gas_Torch</item>
+        <item>Gum</item>
+        <item>internal_vibrator</item>
+        <item>Iron_Plugs</item>
+        <item>nail_puller</item>
+        <item>Glazed_waffle</item>
+        <item>guardsman</item>
+        <item>Grenade</item>
+        <item>Garage</item>
+        <item>Thermometer</item>
+        <item>plummet</item>
+        <item>Mustard</item>
+        <item>Mushroom</item>
+        <item>Warmer</item>
+        <item>stub</item>
+        <item>Decanter</item>
+        <item>cucumber</item>
+        <item>speaker</item>
+        <item>Tomahawk</item>
+        <item>awning</item>
+        <item>Tank</item>
+        <item>stickjaw</item>
+        <item>toggle_switch</item>
+        <item>Thick_zERO</item>
+        <item>Dinosaur</item>
+        <item>diary</item>
+        <item>Tonara</item>
+        <item>Jeans</item>
+        <item>Long_Gagarin</item>
+        <item>Raincoat</item>
+        <item>Jacuzzi</item>
+        <item>Tractor</item>
+        <item>DJeep</item>
+        <item>Two_doves</item>
+        <item>Jazz</item>
+        <item>treaties</item>
+        <item>bookcase</item>
+        <item>Santa_Claus</item>
+        <item>Two_Iron</item>
+        <item>two_diodes</item>
+        <item>Long_spirits</item>
+        <item>reed</item>
+        <item>Two_Axes</item>
+        <item>Woodpecker</item>
+        <item>certificate</item>
+        <item>Two_noose</item>
+        <item>Notebook</item>
+        <item>Tachometer</item>
+        <item>Wooden_Kizhi</item>
+        <item>Dictaphone</item>
+        <item>Two_cupcakes</item>
+        <item>Two_heads_of_cabbage</item>
+        <item>Porcupine</item>
+        <item>cologne</item>
+        <item>taxi</item>
+        <item>Pumpkin</item>
+        <item>bottle_opener</item>
+        <item>carts</item>
+        <item>Two_Chugunkov</item>
+        <item>Wooden_shield</item>
+        <item>crate</item>
+        <item>tablet</item>
+        <item>two_chips</item>
+        <item>sharpener</item>
+        <item>Wooden_clock</item>
+        <item>skinny_Sparrow</item>
+        <item>ancient_reptiles</item>
+        <item>Toilet_paper</item>
+        <item>two_buttons</item>
+        <item>adapter</item>
+        <item>Hoe</item>
+        <item>Slippers</item>
+        <item>Two_bean</item>
+        <item>Diplomat</item>
+        <item>tube</item>
+        <item>oak_twigs</item>
+        <item>Stool</item>
+        <item>extension</item>
+        <item>padded_jacket</item>
+        <item>Teletype</item>
+        <item>telecamera</item>
+        <item>fishing_rod</item>
+        <item>TV_Tower</item>
+        <item>Dollar</item>
+        <item>Telescope</item>
+        <item>Phone</item>
+        <item>power_shower</item>
+        <item>Braid</item>
+        <item>two_cigarettes</item>
+        <item>Toaster</item>
+        <item>vise</item>
+        <item>thousand</item>
+        <item>Particleboard</item>
+        <item>antifreeze</item>
+        <item>Two_SoSalki</item>
+        <item>Fat_Pig</item>
+        <item>Dessert</item>
+        <item>dandelion</item>
+        <item>Engine</item>
+        <item>responder</item>
+        <item>Mattress</item>
+        <item>Girl</item>
+        <item>Two_roach</item>
+        <item>Shoes</item>
+        <item>Two_oars</item>
+        <item>Childrens_sweatshirts</item>
+        <item>screwdriver</item>
+        <item>Horizontal_bar</item>
+        <item>Airship</item>
+        <item>Cake</item>
+        <item>Cockroach</item>
+        <item>Ratchet</item>
+        <item>Trumpet</item>
+        <item>Drill</item>
+        <item>Underpants</item>
+        <item>Tree</item>
+        <item>Terrorist</item>
+        <item>Fireplace</item>
+        <item>Book</item>
+        <item>Capacitor</item>
+        <item>Skates</item>
+        <item>red_bunting</item>
+        <item>Button</item>
+        <item>cane</item>
+        <item>jerrycan</item>
+        <item>Candy</item>
+        <item>Fork</item>
+        <item>leather_jacket</item>
+        <item>Red_manure</item>
+        <item>Claw</item>
+        <item>cover</item>
+        <item>Pi</item>
+        <item>KGB</item>
+        <item>skittles</item>
+        <item>Beautiful_jasmine</item>
+        <item>three_Nails</item>
+        <item>Peel</item>
+        <item>Chitin</item>
+        <item>Hot_Dog</item>
+        <item>Cathode</item>
+        <item>clocks</item>
+        <item>Ketchup</item>
+        <item>Catapult</item>
+        <item>Coil</item>
+        <item>Kutuzov</item>
+        <item>Hearse</item>
+        <item>boat</item>
+        <item>battery</item>
+        <item>three_Skittles</item>
+        <item>Cactus</item>
+        <item>Coca_Cola</item>
+        <item>compost_heap</item>
+        <item>Red_cubes</item>
+        <item>Doll</item>
+        <item>Coconut</item>
+        <item>Strong_coffee</item>
+        <item>accordion</item>
+        <item>Predator</item>
+        <item>three_Chizha</item>
+        <item>Kochetov</item>
+        <item>Rubber</item>
+        <item>three_stuffed</item>
+        <item>khachapuri</item>
+        <item>Swing</item>
+        <item>Calculator_Clock</item>
+        <item>Strong_chifir</item>
+        <item>Poker</item>
+        <item>Cabin</item>
+        <item>three_Bogatyr</item>
+        <item>Boiler</item>
+        <item>Trap</item>
+        <item>squash</item>
+        <item>three_Pipettes</item>
+        <item>Hood</item>
+        <item>Capsule</item>
+        <item>Mug_of_beer</item>
+        <item>Holster</item>
+        <item>calendar</item>
+        <item>Colgate</item>
+        <item>Gate</item>
+        <item>Calculator</item>
+        <item>key</item>
+        <item>Bread</item>
+        <item>Hockey_stick</item>
+        <item>Enema</item>
+        <item>Clover</item>
+        <item>Clarinet</item>
+        <item>beautician</item>
+        <item>Three_of_cigarettes</item>
+        <item>Pan</item>
+        <item>Helmet</item>
+        <item>nippers</item>
+        <item>Red_Zippo</item>
+        <item>Goat</item>
+        <item>Cassette</item>
+        <item>Body</item>
+        <item>capsule_cheese</item>
+        <item>coffee_pot</item>
+        <item>Red_wine_glasses</item>
+        <item>ditch</item>
+        <item>Quaker</item>
+        <item>equisetum</item>
+        <item>cowboy</item>
+        <item>Ladle</item>
+        <item>Kvass</item>
+        <item>Coffee_maker</item>
+        <item>watercolor</item>
+        <item>Crown</item>
+        <item>Cup</item>
+        <item>Trough</item>
+        <item>Crocodile</item>
+        <item>Hook</item>
+        <item>Crab</item>
+        <item>Cap</item>
+        <item>Cross</item>
+        <item>Shrimp</item>
+        <item>Cinnamon</item>
+        <item>Black_Mina</item>
+        <item>Four_legs</item>
+        <item>Suitcase</item>
+        <item>Puppy</item>
+        <item>Black_ball</item>
+        <item>Champion</item>
+        <item>Four_crayons</item>
+        <item>black_socks</item>
+        <item>Black_Navigator</item>
+        <item>Tea_caddy</item>
+        <item>Cast_iron</item>
+        <item>Four_harness</item>
+        <item>Black_shoe_polish</item>
+        <item>four_nuts</item>
+        <item>Four_bugs</item>
+        <item>Black_toad</item>
+        <item>Goldfinch</item>
+        <item>Black_goose</item>
+        <item>Four_cloves</item>
+        <item>Tea_mushroom</item>
+        <item>Bristle</item>
+        <item>Black_Dog</item>
+        <item>Four_diodes</item>
+        <item>Beads</item>
+        <item>brush</item>
+        <item>Black_dowels</item>
+        <item>teacher</item>
+        <item>Miracles</item>
+        <item>ChesnokoDaVka</item>
+        <item>Veil</item>
+        <item>stamping</item>
+        <item>Chicago</item>
+        <item>Chukotka</item>
+        <item>Four_Cactus</item>
+        <item>Chukchi</item>
+        <item>Black_cube</item>
+        <item>cover_phone</item>
+        <item>Chekists</item>
+        <item>Czechs</item>
+        <item>Chakra</item>
+        <item>ochechnik</item>
+        <item>peeled_cucumber</item>
+        <item>tap_dance</item>
+        <item>cheeks</item>
+        <item>Cha_cha_cha</item>
+        <item>Four_Sliver</item>
+        <item>scarecrow</item>
+        <item>Quarter_of_an_hour</item>
+        <item>peeled_Fruit</item>
+        <item>Black_skull</item>
+        <item>Black_bananas</item>
+        <item>Black_Behemoth</item>
+        <item>Pinch</item>
+        <item>chip</item>
+        <item>Tweezers</item>
+        <item>Reading_apparatus</item>
+        <item>Tentacle</item>
+        <item>Chips</item>
+        <item>Chapa</item>
+        <item>Cheburashka</item>
+        <item>Shuttle</item>
+        <item>Tea_spoon</item>
+        <item>pods</item>
+        <item>Stockings</item>
+        <item>Alkali</item>
+        <item>schelbany</item>
+        <item>black_mulberry</item>
+        <item>jawbone</item>
+        <item>Human</item>
+        <item>iron_ball</item>
+        <item>Garlic</item>
+        <item>Four_cigars</item>
+        <item>stockade</item>
+        <item>for_an_hour</item>
+        <item>Black_owl</item>
+        <item>Cheeseburger</item>
+        <item>Number</item>
+        <item>Garlic_Sause</item>
+        <item>Chapel</item>
+        <item>Black_hare</item>
+        <item>Black_lights</item>
+        <item>Black_pieces</item>
+        <item>Pure_water</item>
+        <item>black_switch</item>
+        <item>Clean_things</item>
+        <item>Black_Ethiopia</item>
+        <item>Sorrel</item>
+        <item>Black_business_cards</item>
+        <item>Black_Knit_Mittens</item>
+        <item>blueberry_jam</item>
+        <item>Ink</item>
+        <item>four_horns</item>
+        <item>Heck</item>
+        <item>ChiRKalka</item>
+        <item>Drawing</item>
+        <item>Turtle</item>
+        <item>Cherries</item>
+        <item>Black_Rose</item>
+        <item>Worm</item>
+        <item>lizard</item>
+        <item>Banana</item>
+        <item>Penguin</item>
+        <item>tomato</item>
+        <item>Binoculars</item>
+        <item>jars</item>
+        <item>Bomb</item>
+        <item>Pencil_case</item>
+        <item>Pumice</item>
+        <item>BMW</item>
+        <item>Boomerang</item>
+        <item>Pajamas</item>
+        <item>trunk</item>
+        <item>curler</item>
+        <item>Spotted_beetle</item>
+        <item>pop_gun</item>
+        <item>White_toad</item>
+        <item>scare</item>
+        <item>Pegasus</item>
+        <item>Button_else</item>
+        <item>shade</item>
+        <item>Web</item>
+        <item>jacket</item>
+        <item>Pallet</item>
+        <item>Heel</item>
+        <item>five_copeck_coin</item>
+        <item>buttress</item>
+        <item>Bottle</item>
+        <item>cup_holders</item>
+        <item>Gramophone</item>
+        <item>Powder</item>
+        <item>Picnic</item>
+        <item>accountant</item>
+        <item>lens</item>
+        <item>Piccolo</item>
+        <item>Immortal_Koschey</item>
+        <item>Pickup</item>
+        <item>Tow</item>
+        <item>Boxing</item>
+        <item>letters</item>
+        <item>Natural</item>
+        <item>Biscuit</item>
+        <item>Pichugov</item>
+        <item>print</item>
+        <item>Tank</item>
+        <item>striped_stuffed</item>
+        <item>White_pasties</item>
+        <item>honeybee</item>
+        <item>Striped_Watches</item>
+        <item>Twine</item>
+        <item>Cave</item>
+        <item>Tambourine</item>
+        <item>parrot</item>
+        <item>Pipette</item>
+        <item>Folder</item>
+        <item>Butterfly</item>
+        <item>Baobab</item>
+        <item>Ashtray</item>
+        <item>Papuan</item>
+        <item>Umbilical_cord</item>
+        <item>Fern</item>
+        <item>Soldering_Iron</item>
+        <item>Plow</item>
+        <item>Tent</item>
+        <item>A_gun</item>
+        <item>Executioner</item>
+        <item>Polyp</item>
+        <item>Balalaika</item>
+        <item>Plasticine</item>
+        <item>soup_ladle</item>
+        <item>Finger</item>
+        <item>Letter</item>
+        <item>Landscape</item>
+        <item>Pistol</item>
+        <item>Basketball</item>
+        <item>Sandbox</item>
+        <item>Passport</item>
+        <item>piezoelement</item>
+        <item>Urinal</item>
+        <item>Spine</item>
+        <item>Bubble</item>
+        <item>Tusk</item>
+        <item>Striped_wagons</item>
+        <item>lead</item>
+        <item>ottoman</item>
+        <item>vegetable_strips</item>
+        <item>pub</item>
+        <item>Peacock</item>
+        <item>Bandage</item>
+        <item>Brewer</item>
+        <item>Singer</item>
+        <item>Pyramid</item>
+        <item>Spring</item>
+        <item>Mask</item>
+        <item>Wig</item>
+        <item>Pin</item>
+        <item>Drum</item>
+        <item>Parachute</item>
+        <item>Sail</item>
+        <item>Log</item>
+        <item>Pepper</item>
+        <item>Lemon</item>
+        <item>Linguaphone</item>
+        <item>Lily_of_the_valley</item>
+        <item>rule</item>
+        <item>studded_ball</item>
+        <item>Lamp</item>
+        <item>overcoat</item>
+        <item>diamond</item>
+        <item>Sloth</item>
+        <item>Lace</item>
+        <item>Pedometer</item>
+        <item>lung_weights</item>
+        <item>logo</item>
+        <item>spoon</item>
+        <item>LeGoChnitsa</item>
+        <item>algebra</item>
+        <item>Frog</item>
+        <item>Logistics</item>
+        <item>setter</item>
+        <item>Camp</item>
+        <item>Barbell</item>
+        <item>icemaker</item>
+        <item>Tripod</item>
+        <item>snail</item>
+        <item>toy_boat</item>
+        <item>Corkscrew</item>
+        <item>hands</item>
+        <item>Lotus</item>
+        <item>Masterpiece</item>
+        <item>helm</item>
+        <item>Chess</item>
+        <item>alcohol</item>
+        <item>Locator</item>
+        <item>Wide_BED</item>
+        <item>scorcher</item>
+        <item>adhesive_plaster</item>
+        <item>Chocolate</item>
+        <item>elixir</item>
+        <item>Cupboard</item>
+        <item>skins</item>
+        <item>splinter</item>
+        <item>Shack</item>
+        <item>electric_toothbrush</item>
+        <item>ShaeChKa</item>
+        <item>covert</item>
+        <item>Electric_probe</item>
+        <item>Wide_slit</item>
+        <item>Luminescent_clock</item>
+        <item>healing_water</item>
+        <item>Tapeworm</item>
+        <item>album</item>
+        <item>Sword</item>
+        <item>Shovel</item>
+        <item>patsy</item>
+        <item>cap</item>
+        <item>School_folders</item>
+        <item>Spire</item>
+        <item>fretsaw</item>
+        <item>Love</item>
+        <item>Syringe</item>
+        <item>Helmet</item>
+        <item>Barrier</item>
+        <item>Horse</item>
+        <item>Cone</item>
+        <item>Laser_ray</item>
+        <item>Boat</item>
+        <item>Barbecue</item>
+        <item>illusion</item>
+        <item>Plume</item>
+        <item>sharper</item>
+        <item>ladder</item>
+        <item>lezginka</item>
+        <item>Chandelier</item>
+        <item>Lesko</item>
+        <item>chanterelle</item>
+        <item>Wide_nozzle</item>
+        <item>tin_soldier</item>
+        <item>Lasso</item>
+        <item>Blade</item>
+        <item>Laser</item>
+        <item>Avalanche</item>
+        <item>sewing_needle</item>
+        <item>Elevator</item>
+        <item>Shop</item>
+        <item>Brassiere</item>
+        <item>Mop</item>
+        <item>Pita</item>
+        <item>Broad_vase</item>
+        <item>Chocolate_waffles</item>
+        <item>Cipher</item>
+        <item>Hinge</item>
+        <item>caricature</item>
+        <item>Shorts</item>
+        <item>Ball</item>
+        <item>casket</item>
+        <item>Screw</item>
+        <item>Hornet</item>
+        <item>Wool</item>
+        <item>Scarf</item>
+        <item>Calipers</item>
+        <item>octopus</item>
+        <item>Snowflake</item>
+        <item>Umbrella</item>
+        <item>A_bag</item>
+        <item>Bow</item>
+        <item>Sombrero</item>
+        <item>Aircraft</item>
+        <item>putty</item>
+        <item>Samovar</item>
+        <item>Currant</item>
+        <item>clip</item>
+        <item>Lighter</item>
+        <item>provision</item>
+        <item>saiga</item>
+        <item>Condensed_milk</item>
+        <item>bend</item>
+        <item>dummy</item>
+        <item>Registry_office</item>
+        <item>Conspiracy</item>
+        <item>cigarettes</item>
+        <item>Machine</item>
+        <item>Stack</item>
+        <item>Statuette</item>
+        <item>Glass</item>
+        <item>sharpening</item>
+        <item>Stop</item>
+        <item>Chair</item>
+        <item>Sadist</item>
+        <item>shutter</item>
+        <item>Dragonfly</item>
+        <item>Stopwatch</item>
+        <item>old_hut</item>
+        <item>SCaT</item>
+        <item>jumping_rope</item>
+        <item>cleaver</item>
+        <item>clamp</item>
+        <item>plunger</item>
+        <item>Saxophone</item>
+        <item>Pan</item>
+        <item>Violin</item>
+        <item>leveret</item>
+        <item>Abomasum</item>
+        <item>bill</item>
+        <item>knot</item>
+        <item>Counter</item>
+        <item>pinch_of_salt</item>
+        <item>Latch</item>
+        <item>toothpick</item>
+        <item>sochivo</item>
+        <item>glamor</item>
+        <item>Stud</item>
+        <item>boot</item>
+        <item>Satellite</item>
+        <item>ABC</item>
+        <item>matches</item>
+        <item>support</item>
+        <item>Chisel</item>
+        <item>note</item>
+        <item>Sapphire</item>
+        <item>Fence</item>
+        <item>Elephant</item>
+        <item>Pledge</item>
+        <item>Slide</item>
+        <item>Drying</item>
+        <item>radiators</item>
+        <item>salps</item>
+        <item>Dryer</item>
+        <item>Silage</item>
+        <item>Plum</item>
+        <item>insulation</item>
+        <item>Pine</item>
+        <item>snowdrift</item>
+        <item>Clasp</item>
+        <item>Nipple</item>
+        <item>Papilla</item>
+        <item>Gold_teeth</item>
+        <item>icicle</item>
+        <item>frankfurters</item>
+        <item>Bolt</item>
+        <item>Gap</item>
+        <item>call</item>
+        <item>freshener</item>
+        <item>Traffic_light</item>
+        <item>Beet</item>
+        <item>Candle</item>
+        <item>Freedom</item>
+        <item>Souffle</item>
+        <item>Whistle</item>
+        <item>wave</item>
+        <item>Drill</item>
+        <item>Siren</item>
+        <item>Earring</item>
+        <item>heart</item>
+        <item>Mirror</item>
+        <item>Shirt</item>
+        <item>Sickle</item>
+        <item>oscilloscope</item>
+        <item>section</item>
+        <item>Sideboard</item>
+        <item>fixed_transceiver</item>
+        <item>Bath</item>
+        <item>grapes</item>
+        <item>Fan</item>
+        <item>Broom</item>
+        <item>coronet</item>
+        <item>vampire</item>
+        <item>Finish</item>
+        <item>Down</item>
+        <item>Fanfare</item>
+        <item>Lamp</item>
+        <item>Trolley</item>
+        <item>Vyzhigatel</item>
+        <item>Bassoon</item>
+        <item>Screw_nuts</item>
+        <item>coffee_grounds</item>
+        <item>Wine_jug</item>
+        <item>boiled_egg_yolk</item>
+        <item>landmine</item>
+        <item>wigwam</item>
+        <item>figures</item>
+        <item>machine</item>
+        <item>photo</item>
+        <item>FoToTaymer</item>
+        <item>Autocar</item>
+        <item>branchlet</item>
+        <item>T_shirt</item>
+        <item>Case</item>
+        <item>vinyl_record</item>
+        <item>Fruit_curd</item>
+        <item>Bucket</item>
+        <item>Camera</item>
+        <item>8_kg</item>
+        <item>Exit</item>
+        <item>Popcorn</item>
+        <item>High_swing</item>
+        <item>corduroy_caps</item>
+        <item>Torch</item>
+        <item>Focus</item>
+        <item>Knitted_sweater</item>
+        <item>Vaccine</item>
+        <item>porcelain_teapot</item>
+        <item>Eternal_flame</item>
+        <item>perpetual_motion_machine</item>
+        <item>lamb</item>
+        <item>Owl_Scarecrow</item>
+        <item>Curly_chips</item>
+        <item>Knitted_stockings</item>
+        <item>oVoScheSushilka</item>
+        <item>boiled_sorrel</item>
+        <item>Vegetable_cutters</item>
+        <item>Photographic_paper</item>
+        <item>Knitted_buttons</item>
+        <item>Bicycle_pedals</item>
+        <item>Winnie_the_Pooh</item>
+        <item>Bakery_products</item>
+        <item>PhotoCamera</item>
+        <item>Camera_roll</item>
+        <item>abstract</item>
+        <item>High_ottoman</item>
+        <item>FBI</item>
+        <item>Shuttlecock</item>
+        <item>Flag</item>
+        <item>Filter</item>
+        <item>roller</item>
+        <item>whirligig</item>
+        <item>Photo_Album</item>
+        <item>Hanger</item>
+        <item>bike</item>
+        <item>Volvo</item>
+        <item>Balloon</item>
+        <item>flowerpots</item>
+        <item>wild_oats</item>
+        <item>Entry</item>
+        <item>Physics</item>
+        <item>vases</item>
+        <item>Flash</item>
+        <item>beans</item>
+        <item>Foss</item>
+        <item>Phosphorus</item>
+        <item>sight</item>
+        <item>Grape_wine</item>
+        <item>waxwork</item>
+        <item>Air_Vatan</item>
+        <item>Dislocation</item>
+        <item>Boiled_vegetables</item>
+        <item>dried_roach</item>
+        <item>waffle_iron</item>
+        <item>Signboard</item>
+        <item>three_eights</item>
+        <item>OCE</item>
+        <item>Pharaoh</item>
+        <item>Cap</item>
+        <item>Helicopter</item>
+        <item>Africa</item>
+        <item>Doctor</item>
+        <item>Camel</item>
+        <item>forcemeat</item>
+        <item>Queen</item>
+        <item>Rope</item>
+        <item>Aurora</item>
+        <item>Belt</item>
+        <item>Boxing_ring</item>
+        <item>fittings</item>
+        <item>Frame</item>
+        <item>Ranch</item>
+        <item>Rhombus</item>
+        <item>Chamomile</item>
+        <item>gun_oil</item>
+        <item>Mat</item>
+        <item>knapsack</item>
+        <item>ARGAMAK</item>
+        <item>Mats</item>
+        <item>Slingshot</item>
+        <item>Horn</item>
+        <item>Rogachev</item>
+        <item>Rugby</item>
+        <item>hieroglyph</item>
+        <item>Lenin</item>
+        <item>Rust</item>
+        <item>faces</item>
+        <item>decoration</item>
+        <item>Rainbow</item>
+        <item>Radiator</item>
+        <item>radish</item>
+        <item>radio_receiving_station</item>
+        <item>rubber_truncheon</item>
+        <item>Retouch</item>
+        <item>Radishes</item>
+        <item>artifact</item>
+        <item>Radar</item>
+        <item>Water_dispenser</item>
+        <item>Torn_SKIN</item>
+        <item>Rocket</item>
+        <item>Nutcracker</item>
+        <item>Pink_swings</item>
+        <item>Manuscript</item>
+        <item>cycle_of</item>
+        <item>Backpack</item>
+        <item>Sink</item>
+        <item>Record</item>
+        <item>expander</item>
+        <item>Lever_arm</item>
+        <item>rubber_brush</item>
+        <item>pen</item>
+        <item>rosy_cheeks</item>
+        <item>Pink_bonnet</item>
+        <item>Russian_bowl</item>
+        <item>Radio_clocks</item>
+        <item>Flashlight</item>
+        <item>Manual_Radar</item>
+        <item>Plane</item>
+        <item>fire_hose</item>
+        <item>Robot</item>
+        <item>small_fish</item>
+        <item>Grouse</item>
+        <item>Rum_bogeyman</item>
+        <item>crossbow</item>
+        <item>watermelon</item>
+        <item>Draught_beer</item>
+        <item>bullhorn</item>
+        <item>Cylinder</item>
+        <item>Floral_meadow</item>
+        <item>Roulette</item>
+        <item>Rollers</item>
+        <item>Cylinder_and_larvae</item>
+        <item>Rasp</item>
+        <item>Rubber_hose</item>
+        <item>rAILS</item>
+        <item>Relief</item>
+        <item>Pink_balls</item>
+        <item>Eyelashes</item>
+        <item>rod</item>
+        <item>Power_socket</item>
+        <item>butterscotch</item>
+        <item>rosette</item>
+        <item>Respirator</item>
+        <item>Mermaid</item>
+        <item>Resistor</item>
+        <item>Drawing_pen</item>
+        <item>Cutter</item>
+        <item>Howler</item>
+        <item>colored_shapes</item>
+        <item>Flower</item>
+        <item>Rafiki</item>
+        <item>Pink_sheepskin</item>
+        <item>corrugated_paper</item>
+        <item>Reflector</item>
+        <item>Digital_scales</item>
+        <item>Colored_Apron</item>
+        <item>Clock_face</item>
+        <item>orange_urn</item>
+        <item>orange_origami</item>
+        <item>Ararat</item>
+        <item>Compass</item>
+        <item>colored_pens</item>
+        <item>Recipe</item>
+        <item>Rorschach</item>
+        <item>Rusty_tanks</item>
+        <item>tsarevna</item>
+        <item>Knight</item>
+    </array>
+    <array name="transcription">
+        <item>[ i: ]</item>
+        <item>[ i ]</item>
+        <item>[ e ]</item>
+        <item>[ æ ]</item>
+        <item>[ ɑ: ]</item>
+        <item>[ ɔ ]</item>
+        <item>[ ɔ: ]</item>
+        <item>[ ə: ]</item>
+        <item>[ ə ]</item>
+        <item>[ ʌ ]</item>
+        <item>[ u ]</item>
+        <item>[ u: ]</item>
+        <item>[ ai ]</item>
+        <item>[ ei ]</item>
+        <item>[ ɔi ]</item>
+        <item>[ au ]</item>
+        <item>[ ou ]</item>
+        <item>[ iə ]</item>
+        <item>[ uə ]</item>
+        <item>[ ɛə ]</item>
+        <item>[ p ]</item>
+        <item>[ b ]</item>
+        <item>[ m ]</item>
+        <item>[ t ]</item>
+        <item>[ d ]</item>
+        <item>[ n ]</item>
+        <item>[ k ]</item>
+        <item>[ g ]</item>
+        <item>[ f ]</item>
+        <item>[ v ]</item>
+        <item>[ s ]</item>
+        <item>[ z ]</item>
+        <item>[ l ]</item>
+        <item>[ ʃ ]</item>
+        <item>[ ʒ ]</item>
+        <item>[ tʃ ]</item>
+        <item>[ dʒ ]</item>
+        <item>[ r ]</item>
+        <item>[ h ]</item>
+        <item>[ j ]</item>
+        <item>[ ju ]</item>
+        <item>[ je ]</item>
+        <item>[ jɔ ]</item>
+        <item>[ jʌ ]</item>
+        <item>[ w ]</item>
+        <item>[ ŋ ]</item>
+        <item>[ θ ]</item>
+        <item>[ ð ]</item>
+    </array>
+    <array name="transcription_files">
+        <item>trans_vili</item>
+        <item>trans_igla</item>
+        <item>trans_sendvich</item>
+        <item>trans_eskimo</item>
+        <item>trans_zaponka</item>
+        <item>trans_stop</item>
+        <item>trans_cofee</item>
+        <item>trans_honey</item>
+        <item>trans_kompas</item>
+        <item>trans_arbuz</item>
+        <item>trans_furajka</item>
+        <item>trans_ugor</item>
+        <item>trans_maika</item>
+        <item>trans_leika</item>
+        <item>trans_koika</item>
+        <item>trans_spider</item>
+        <item>trans_kloun</item>
+        <item>trans_izba</item>
+        <item>trans_duck</item>
+        <item>trans_etiketka</item>
+        <item>trans_pero</item>
+        <item>trans_bulavka</item>
+        <item>trans_magnit</item>
+        <item>trans_topor</item>
+        <item>trans_drel</item>
+        <item>trans_knife</item>
+        <item>trans_kolzo</item>
+        <item>trans_grelka</item>
+        <item>trans_fonar</item>
+        <item>trans_veer</item>
+        <item>trans_spichka</item>
+        <item>trans_zajigalka</item>
+        <item>trans_lupa</item>
+        <item>trans_shariki</item>
+        <item>trans_juk</item>
+        <item>trans_chereshnya</item>
+        <item>trans_jem</item>
+        <item>trans_bag</item>
+        <item>trans_fridje</item>
+        <item>trans_iod</item>
+        <item>trans_yla</item>
+        <item>trans_el</item>
+        <item>trans_iogurt</item>
+        <item>trans_yakor</item>
+        <item>trans_one</item>
+        <item>trans_naperstok</item>
+        <item>trans_svecha</item>
+        <item>trans_star</item>
+    </array>
+    <array name="transcription_transcription">
+        <item>вИлы (и-и)</item>
+        <item>Игла (и)</item>
+        <item>сЭндвич (э)</item>
+        <item>Эскимо (а-э)</item>
+        <item>зАпонка (а-а)</item>
+        <item>стОп (о)</item>
+        <item>кОфе (о-о)</item>
+        <item>мЁд (ё)</item>
+        <item>компАс (невнятный, безударный а)</item>
+        <item>Арбуз (безударный звук а)</item>
+        <item>фУражка (у)</item>
+        <item>Угорь (у-у)</item>
+        <item>мАЙка (ай)</item>
+        <item>лЕЙка (эй)</item>
+        <item>кОЙка (ой)</item>
+        <item>пАУк (ау)</item>
+        <item>клОУн (оу)</item>
+        <item>ИзбА (иа)</item>
+        <item>УткА (уа)</item>
+        <item>ЭтикеткА (эа)</item>
+        <item>Перо (п)</item>
+        <item>Булавка (б)</item>
+        <item>Магнит (м)</item>
+        <item>Топор (т)</item>
+        <item>Дрель (д)</item>
+        <item>Нож (н)</item>
+        <item>Кольцо (к)</item>
+        <item>Грелка (г)</item>
+        <item>Фонарь (ф)</item>
+        <item>Веер (в)</item>
+        <item>Спичка (с)</item>
+        <item>Зажигалка (з)</item>
+        <item>Лупа (л)</item>
+        <item>Шарики (ш)</item>
+        <item>Жук (ж)</item>
+        <item>Черешня (ч)</item>
+        <item>ДЖем (дж)</item>
+        <item>Рюкзак (р)</item>
+        <item>Холодильник (х)</item>
+        <item>Йод (й)</item>
+        <item>Юла (йу)</item>
+        <item>Ель (йэ)</item>
+        <item>ЙОгурт (йо)</item>
+        <item>Якорь (йа)</item>
+        <item>one</item>
+        <item>Наперсток (н), язык у нёба</item>
+        <item>Свеча (с), язык между зубами</item>
+        <item>Звезда (з), язык между зубами</item>
+    </array>
+    <array name="week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </array>
+    <array name="week_files">
+        <item>week_one</item>
+        <item>week_two</item>
+        <item>week_three</item>
+        <item>week_four</item>
+        <item>week_five</item>
+        <item>week_six</item>
+        <item>week_seven</item>
+    </array>
+    <array name="week_transcription">
+        <item>ПоНи</item>
+        <item>ВыТяжка</item>
+        <item>СуРгуч</item>
+        <item>ЧеТки</item>
+        <item>аПТека</item>
+        <item>СоБоль</item>
+        <item>ВеСы</item>
+    </array>
+</resources>

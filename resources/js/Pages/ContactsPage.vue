@@ -2,6 +2,7 @@
 <Layout>
     <Head title="Contacts Page" />
     <div class="container">Contact Page</div>
+    <button class="btn btn-success"><i class="bi bi-3-circle-fill"></i> Button</button>
 </Layout>
 </template>
 
