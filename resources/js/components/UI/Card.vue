@@ -26,7 +26,10 @@
 <script>
 export default {
     name: "Card",
-    props: ['card']
+    props: ['card'],
+    mounted() {
+        // console.log('CARD', this.card)
+    }
 }
 </script>
 

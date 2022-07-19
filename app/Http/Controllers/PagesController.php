@@ -10,7 +10,7 @@ class PagesController extends Controller
 {
     public function index()
     {
-        $cards = Card::orderBy('id', 'desc')->get();
+        $cards = Card::orderBy('id', 'desc')->paginate(20);
         return Inertia::render('HomePage', [
             'cards' => $cards
         ])->withViewData(['meta' => 'Some meta']);

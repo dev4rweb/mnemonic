@@ -4,12 +4,20 @@
         <h1>Home Page</h1>
         <div
             class="d-flex justify-content-around flex-wrap"
-            v-if="cards.length"
+            v-if="cards.data.length"
         >
             <Card
-                v-for="card in cards"
+                v-for="card in cards.data"
                 :card="card"
                 :key="card.id"
+            />
+        </div>
+        <div
+            v-if="cards.links.length"
+            class="d-flex justify-content-center"
+        >
+            <Pagination
+                :links="cards.links"
             />
         </div>
     </Layout>
@@ -20,6 +28,7 @@ import ExampleComponent from "../components/ExampleComponent";
 import Layout from "../components/Layout";
 import { Head } from '@inertiajs/inertia-vue'
 import Card from "../components/UI/Card";
+import Pagination from "../components/UI/Pagination";
 export default {
     name: "HomePage",
     props: ['cards'],
@@ -30,7 +39,8 @@ export default {
         ExampleComponent,
         Layout,
         Head,
-        Card
+        Card,
+        Pagination
     },
     mounted() {
         console.log('cards', this.cards)
