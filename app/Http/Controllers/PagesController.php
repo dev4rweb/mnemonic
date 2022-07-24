@@ -2,17 +2,26 @@
 
 namespace App\Http\Controllers;
 
+use App\Filters\CardFilter;
 use App\Models\Card;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
 
 class PagesController extends Controller
 {
-    public function index()
+    public function index(CardFilter $filter)
     {
-        $cards = Card::orderBy('id', 'desc')->paginate(20);
+        $cardCategories = Card::all();
+        $categories = array();
+        foreach ($cardCategories as $card) {
+            if (!in_array($card->category, $categories, true)) {
+                array_push($categories, $card->category);
+            }
+        }
+        $cards = Card::filter($filter)->paginate($filter->request['pagination']);
         return Inertia::render('HomePage', [
-            'cards' => $cards
+            'cards' => $cards,
+            'categories' => $categories
         ])->withViewData(['meta' => 'Some meta']);
     }
 }
