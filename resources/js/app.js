@@ -4,7 +4,7 @@ import {createInertiaApp} from '@inertiajs/inertia-vue'
 import {InertiaProgress} from '@inertiajs/progress'
 
 InertiaProgress.init({
-    color: '#ED8936',
+    color: '#69fa03',
     showSpinner: true
 });
 

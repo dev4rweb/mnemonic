@@ -12,6 +12,8 @@
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
 
+    <link rel="icon" type="image/x-icon" href="/favicon.svg">
+
     <!-- Fonts -->
 {{--    <link rel="dns-prefetch" href="//fonts.gstatic.com">--}}
 {{--    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">--}}
@@ -23,7 +25,7 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     @inertiaHead
     @if(isset($meta))
-        <meta name="description" content="{{ $meta }}">
+{{--        <meta name="description" content="{{ $meta }}">--}}
     @endif
 </head>
 <body>

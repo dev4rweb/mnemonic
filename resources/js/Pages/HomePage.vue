@@ -1,6 +1,8 @@
 <template>
     <Layout>
-        <Head title="Welcome"/>
+        <Head title="Мнемотехника">
+            <meta name="description" content="Справочник кодов по мнемотехники">
+        </Head>
 <!--        <h1>Home Page</h1>-->
         <form
             @submit.prevent="searchFilterHandler"
@@ -33,7 +35,7 @@
                     class="form-control"
                     v-model="form.search"
                     ref="focusMe"
-                    placeholder="Global search"
+                    placeholder="Глобальный поиск"
                     @input="searchHandler"
                 >
                 <span class="input-group-text">{{ textFound }}</span>

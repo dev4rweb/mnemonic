@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar navbar-dark bg-primary navbar-expand-lg">
+    <nav class="navbar navbar-dark bg-success navbar-expand-lg">
         <div class="container-fluid">
             <Link
                 class="navbar-brand"
@@ -87,5 +87,7 @@ export default {
 </script>
 
 <style scoped>
-
+.bg-primary {
+    /*background-color: #69fa03;*/
+}
 </style>
