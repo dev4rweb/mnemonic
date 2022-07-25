@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\PagesController;
+use App\Models\Visitor;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -17,6 +18,20 @@ use Illuminate\Support\Facades\Route;
 /*Route::get('/', function () {
     return view('welcome');
 });*/
+$unique_ip = true;
+$visitors = Visitor::all();
+foreach($visitors as $visitor){
+    if($visitor->ip_address == request()->ip()){
+        $unique_ip = false;
+        $visitor->count += 1;
+        $visitor->save();
+    }
+}
+if($unique_ip == true){
+    $visitor = Visitor::create([
+        'ip_address' => request()->ip(),
+    ]);
+}
 
 Route::get('/', [PagesController::class, 'index']);
 Route::inertia('/about', 'AboutPage');
