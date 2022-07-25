@@ -1,31 +1,31 @@
 <template>
     <Layout>
         <Head title="Welcome"/>
-        <h1>Home Page</h1>
+<!--        <h1>Home Page</h1>-->
         <form
             @submit.prevent="searchFilterHandler"
-            class="d-flex justify-content-around mb-3"
+            class="d-flex justify-content-around flex-wrap mt-3"
         >
             <select
                 v-if="categories && categories.length"
                 v-model="form.category"
                 @change="selectHandler"
                 name="category"
-                class="form-select"
+                class="form-select mb-3"
                 style="max-width: 200px;"
             >
-                <option value="all">All</option>
+                <option value="all">Все карточки</option>
                 <option
                     v-for="(cat, i ) in categories"
                     :value="cat"
                     :key="i"
                 >
-                    {{ cat }}
+                    {{ getCategoryName(cat) }}
                 </option>
             </select>
 
             <div
-                class="input-group"
+                class="input-group mb-3"
                 style="max-width: 350px;"
             >
                 <input
@@ -40,7 +40,7 @@
             </div>
 
             <select
-                class="form-select"
+                class="form-select mb-3"
                 style="max-width: 80px;"
                 v-model="form.pagination"
                 @change="selectHandler"
@@ -97,6 +97,7 @@ export default {
         searchHandler() {
             console.log('search', this.form)
             this.form.category = 'all'
+            this.form.page = '1'
             this.searchFilterHandler()
         },
         selectHandler() {
@@ -123,6 +124,19 @@ export default {
                 this.form.search = search ?? ''
                 if (search) this.$refs.focusMe.focus()
             }
+        },
+        getCategoryName(cat) {
+            switch (cat) {
+                case 'week_days' : return 'Дни недели';
+                case 'transcription' : return 'Транскрипция';
+                case 'alphabet' : return 'Алфавит рус';
+                case 'alphabet_en' : return 'Алфавит англ';
+                case 'months' : return 'месяцы';
+                case 'hundred' : return '100';
+                case 'carts' : return 'игральные карты';
+                case 'thousand' : return '1000';
+                default: return 'Неизвестная категория'
+            }
         }
     },
     computed: {
@@ -131,7 +145,7 @@ export default {
                 return `Найдено - ${this.cards.total}`
             }
             return `Всего - ${this.cards.total}`
-        }
+        },
     },
     components: {
         ExampleComponent,

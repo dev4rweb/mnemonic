@@ -1,6 +1,6 @@
 <template>
     <nav aria-label="Page navigation example">
-        <ul class="pagination">
+        <ul class="pagination flex-wrap">
             <li
                 v-for="(link, i) in links"
                 v-if="link.url || link.label.includes('...')"
