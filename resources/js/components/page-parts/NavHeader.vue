@@ -10,7 +10,18 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div
+                class="collapse navbar-collapse"
+                id="navbarSupportedContent">
+                <Link
+                    class="btn btn-sm btn-warning"
+                    v-if="this.$page.props.user"
+                    href="/logout"
+                    method="post"
+                    as="button"
+                >
+                    {{ this.$page.props.user.name }} - Logout
+                </Link>
 <!--                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
                         <Link

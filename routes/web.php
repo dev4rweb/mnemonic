@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Auth\AuthenticatedSessionController;
 use App\Http\Controllers\PagesController;
 use App\Models\Visitor;
 use Illuminate\Support\Facades\Route;
@@ -32,6 +33,11 @@ if($unique_ip == true){
         'ip_address' => request()->ip(),
     ]);
 }
+
+// Auth
+//Route::get('login', [AuthenticatedSessionController::class, 'create'])
+//    ->name('login')
+//    ->middleware('guest');
 
 Route::get('/', [PagesController::class, 'index']);
 Route::inertia('/about', 'AboutPage');

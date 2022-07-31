@@ -84,7 +84,7 @@ import Pagination from "../components/UI/Pagination";
 
 export default {
     name: "HomePage",
-    props: ['cards', 'categories'],
+    props: ['cards', 'categories', 'user'],
     data() {
         return {
             form: {
@@ -157,7 +157,7 @@ export default {
         Pagination
     },
     mounted() {
-        console.log('cards', this.cards)
+        console.log('user', this.user)
         this.getUrlData()
     }
 }
