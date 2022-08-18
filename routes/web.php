@@ -46,3 +46,5 @@ Route::inertia('/contacts', 'ContactsPage');
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::get('/generate-sitemap', [PagesController::class, 'createSitemap']);

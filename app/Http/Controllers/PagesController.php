@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Filters\CardFilter;
 use App\Models\Card;
+use App\SitemapCreator;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Inertia\Inertia;
@@ -26,5 +27,10 @@ class PagesController extends Controller
             'categories' => $categories,
             'user' => $user,
         ])->withViewData(['meta' => 'Some meta']);
+    }
+
+    public function createSitemap()
+    {
+        return SitemapCreator::create();
     }
 }
