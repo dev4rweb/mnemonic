@@ -13,28 +13,40 @@ class SitemapCreator
     public static function create()
     {
         try {
+            $pages = ['Home', 'About'];
+
             $dom = new DOMDocument();
             $dom->encoding = 'utf-8';
             $dom->xmlVersion = '1.0';
             $dom->formatOutput = true;
-            $xml_file_name = '../../sitemap.xml'; //You can give your path to save file.
-            $root = $dom->createElement('Movies');
-            $movie_node = $dom->createElement('movie');
-            $attr_movie_id = new DOMAttr('movie_id', '5467');
-            $movie_node->setAttributeNode($attr_movie_id);
 
-            $child_node_title = $dom->createElement('Title', 'The Campaign');
-            $movie_node->appendChild($child_node_title);
 
-            $child_node_year = $dom->createElement('Year', 2012);
-            $movie_node->appendChild($child_node_year);
+            $xml_file_name = '../sitemap.xml'; //You can give your path to save file.
+//            $xml_file_name = 'sitemap.xml'; //You can give your path to save file.
 
-            $child_node_genre = $dom->createElement('Genre', 'The Campaign');
-            $movie_node->appendChild($child_node_genre);
 
-            $child_node_ratings = $dom->createElement('Ratings', 6.2);
-            $movie_node->appendChild($child_node_ratings);
-            $root->appendChild($movie_node);
+            $root = $dom->createElement('urlset');
+            $rootAttr = new DOMAttr('xmlns', 'http://www.sitemaps.org/schemas/sitemap/0.9');
+            $root->setAttributeNode($rootAttr);
+
+            foreach ($pages as $page) {
+                $url_node = $dom->createElement('url');
+
+                $loc_node = $dom->createElement('loc', 'https://coinzoomer.com/' . $page);
+                $url_node->appendChild($loc_node);
+
+                $priority_node = $dom->createElement('priority', '1.0');
+                $url_node->appendChild($priority_node);
+
+                $lastmod_node = $dom->createElement('lastmod', '2022-08-08T11:05:02+03:00');
+                $url_node->appendChild($lastmod_node);
+
+                $changefreq_node = $dom->createElement('changefreq', 'daily');
+                $url_node->appendChild($changefreq_node);
+
+                $root->appendChild($url_node);
+            }
+
             $dom->appendChild($root);
             $dom->save($xml_file_name);
             if (strpos($_SERVER['SERVER_NAME'], '127.0.0.1') !== false) {
