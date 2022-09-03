@@ -3,8 +3,8 @@
 namespace App\Http\Controllers;
 
 use App\Filters\CardFilter;
+use App\helpers\SitemapCreator;
 use App\Models\Card;
-use App\SitemapCreator;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Inertia\Inertia;

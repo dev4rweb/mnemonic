@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App;
+namespace App\helpers;
 
 
 use DOMAttr;
@@ -12,6 +12,8 @@ class SitemapCreator
 {
     public static function create()
     {
+        /*https://stackoverflow.com/questions/486757/how-to-generate-xml-file-dynamically-using-php*/
+        /*https://www.guru99.com/php-and-xml.html*/
         try {
             $pages = ['Home', 'About'];
 
@@ -20,7 +22,7 @@ class SitemapCreator
             $dom->xmlVersion = '1.0';
             $dom->formatOutput = true;
 
-
+            $xml_file_name = '../mnemonic/sitemap.xml'; //You can give your path to save file.
             $xml_file_name = '../sitemap.xml'; //You can give your path to save file.
 //            $xml_file_name = 'sitemap.xml'; //You can give your path to save file.
 
