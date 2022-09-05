@@ -18,6 +18,7 @@
             necessitatibus officiis perferendis quaerat quidem repellendus sit tempora temporibus, vel? Ab dolore eius
             ex impedit laborum sequi voluptatum. Alias animi architecto asperiores blanditiis cum dignissimos dolores ea
             illo ipsam, natus odio officiis perferendis, possimus quasi similique sint totam veritatis!</p>
+        <p>Changed in master</p>
     </Layout>
 </template>
 
