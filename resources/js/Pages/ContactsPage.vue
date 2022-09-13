@@ -9,6 +9,12 @@
         <div>
             Some changes
         </div>
+        <div>
+            Some changes
+        </div>
+        <div>
+            Changes in comment
+        </div>
     </Layout>
 </template>
 
